@@ -1,0 +1,2397 @@
+BEGIN:VCALENDAR
+X-WR-TIMEZONE:Europe/Amsterdam
+METHOD:PUBLISH
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+X-WR-CALNAME:Agenda
+BEGIN:VTIMEZONE
+TZID:W. Europe Standard Time
+BEGIN:STANDARD
+DTSTART;TZID=Europe/Amsterdam:16010101T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=-1SU;BYMONTH=10
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART;TZID=Europe/Amsterdam:16010101T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=-1SU;BYMONTH=3
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DESCRIPTION:\n
+RRULE:FREQ=WEEKLY;UNTIL=20270305T063000Z;INTERVAL=1;BYDAY=FR;WKST=MO
+EXDATE;TZID=W. Europe Standard Time:20261002T073000,20261009T073000,20261023T073000,20261030T073000,20261225T073000,20270101T073000
+UID:040000008200E00074C5B7101A82E008000000002A56026BAF3EDD010000000000000000100000008C1CFE8EDBDBC34C84A46B9B9A6D940E
+SUMMARY:Vrij
+DTSTART;TZID=W. Europe Standard Time:20260911T073000
+DTEND;TZID=W. Europe Standard Time:20260911T120000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+RRULE:FREQ=WEEKLY;UNTIL=20270226T110000Z;INTERVAL=1;BYDAY=MO,TU,WE,TH,FR;WKST=SU
+EXDATE;TZID=W. Europe Standard Time:20260915T120000,20260924T120000,20261001T120000,20261009T120000,20261023T120000,20261026T120000,20261027T120000,20261028T120000,20261029T120000,20261030T120000,20261104T120000,20261105T120000,20261203T120000,20261225T120000,20270101T120000
+UID:040000008200E00074C5B7101A82E00800000000A3ADDA08923BDD01000000000000000010000000A2E12FBAFEFFDA48AC3C1C61DADC3799
+SUMMARY:Lunch (afspraken in overleg)
+DTSTART;TZID=W. Europe Standard Time:20260911T120000
+DTEND;TZID=W. Europe Standard Time:20260911T130000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Nieuwe overlegreeks op Entrada/via Teams en elke week op de maandag 10:30.\nHier de link naar een sheet waar iedereen zelf elke week agendapunten kan zetten.\n2026 Overleg sheet voor Kernteam Energiegemeenschappen.docx<https://hoofdstad.sharepoint.com/:w:/r/sites/SW-RE-RD-Energietransitie/Gedeelde%20documenten/PROGRAMMA%20ENERGIEGEMEENSCHAPPEN/Programma%202026/02%20Overleggen/04.%20Kernteam%20Energiegemeenschappen/2026%20Overleg%20sheet%20voor%20Kernteam%20Energiegemeenschappen.docx?d=w1e0c3483da0c4b3da0e6956a4cf85166&csf=1&web=1&e=NpaDkG>\nGr.\, Judith\n______________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjM3NTE0NDYtZTNiMC00YWJiLWJjMDYtM2Q2MTNjMjYwNGQy%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%229c02b874-6b1d-468b-9692-a935b1b2ba12%22%7d>\nVergadering-id: 379 507 254 188 71\nWachtwoordcode: PL7Vi7o5\n________________________________\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=9c02b874-6b1d-468b-9692-a935b1b2ba12&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_MjM3NTE0NDYtZTNiMC00YWJiLWJjMDYtM2Q2MTNjMjYwNGQy@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n\n
+RRULE:FREQ=WEEKLY;UNTIL=20261130T091500Z;INTERVAL=1;BYDAY=MO;WKST=MO
+EXDATE;TZID=W. Europe Standard Time:20261026T101500
+UID:040000008200E00074C5B7101A82E0080000000060F9351B0469DC01000000000000000010000000EB9F19AEFE3DAF4EA3BDD0D0F01CF14E
+SUMMARY:Wekelijks Kernteam Energiegemeenschappen (Hybride)
+DTSTART;TZID=W. Europe Standard Time:20260914T101500
+DTEND;TZID=W. Europe Standard Time:20260914T110000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:57
+LOCATION:Microsoft Teams-vergadering\; Entrada 600 1D.1 Noorderpark 9P HYB
+X-MICROSOFT-CDO-APPT-SEQUENCE:57
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Nieuwe overlegreeks op Entrada/via Teams en elke week op de maandag 10:30.\nHier de link naar een sheet waar iedereen zelf elke week agendapunten kan zetten.\n2026 Overleg sheet voor Kernteam Energiegemeenschappen.docx<https://hoofdstad.sharepoint.com/:w:/r/sites/SW-RE-RD-Energietransitie/Gedeelde%20documenten/PROGRAMMA%20ENERGIEGEMEENSCHAPPEN/Programma%202026/02%20Overleggen/04.%20Kernteam%20Energiegemeenschappen/2026%20Overleg%20sheet%20voor%20Kernteam%20Energiegemeenschappen.docx?d=w1e0c3483da0c4b3da0e6956a4cf85166&csf=1&web=1&e=NpaDkG>\nGr.\, Judith\n______________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjM3NTE0NDYtZTNiMC00YWJiLWJjMDYtM2Q2MTNjMjYwNGQy%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%229c02b874-6b1d-468b-9692-a935b1b2ba12%22%7d>\nVergadering-id: 379 507 254 188 71\nWachtwoordcode: PL7Vi7o5\n________________________________\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=9c02b874-6b1d-468b-9692-a935b1b2ba12&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_MjM3NTE0NDYtZTNiMC00YWJiLWJjMDYtM2Q2MTNjMjYwNGQy@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n\n
+UID:040000008200E00074C5B7101A82E0080000000060F9351B0469DC01000000000000000010000000EB9F19AEFE3DAF4EA3BDD0D0F01CF14E
+RECURRENCE-ID;TZID=W. Europe Standard Time:20260914T101500
+SUMMARY:Wekelijks Kernteam Energiegemeenschappen (Hybride)
+DTSTART;TZID=W. Europe Standard Time:20260914T101500
+DTEND;TZID=W. Europe Standard Time:20260914T110000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:57
+LOCATION:Microsoft Teams-vergadering\; Entrada 600 1D.1 Noorderpark 9P HYB
+X-MICROSOFT-CDO-APPT-SEQUENCE:57
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hey Joyce\,\n\nIk ben bezig met een analyse van alle overleggen binnen het programma. Ik wil kijken of ik voor de BIM-sessie van volgende week een overzicht kan hebben. Daarvoor heb ik ook jouw input nodig. Heb je morgen een half uurtje hiervoor? Kan waarschijnlijk zelfs in minder tijd.\n\nGroet\,\nFlorence\n\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/325433729501220?p=llHmdGvH0dEB4VC1C5\nVergadering-id: 325 433 729 501 220\nWachtwoordcode: Ht2bJ6D8\n________________________________\nHeeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjA2Nzc0OTQtMmFkNy00YzdmLWI4YTEtY2NkMjA3ODU1Y2U1%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%2258803a09-d33d-4dff-b020-6843a6f15d7b%22%7d>\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=58803a09-d33d-4dff-b020-6843a6f15d7b&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_NjA2Nzc0OTQtMmFkNy00YzdmLWI4YTEtY2NkMjA3ODU1Y2U1@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n
+UID:040000008200E00074C5B7101A82E0080000000011705636963FDD01000000000000000010000000EBA2BC95483BD444B10A3AA9D522C01A
+SUMMARY:Analyse overleggen binnen programma | Joyce
+DTSTART;TZID=W. Europe Standard Time:20260914T130000
+DTEND;TZID=W. Europe Standard Time:20260914T133000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:2
+LOCATION:Microsoft Teams-vergadering
+X-MICROSOFT-CDO-APPT-SEQUENCE:2
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/329761931136562?p=G1DUJ8pm631CZISy6E\nVergadering-id: 329 761 931 136 562\nWachtwoordcode: Au7Sw2uB\n________________________________\nHeeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmFiZWE1NDAtZDI4NC00YTFiLTg4MzctZjkyNzdiOGM0YzMx%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%227ba50af2-b2f5-4b3b-9287-1b8426c706c7%22%7d>\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=7ba50af2-b2f5-4b3b-9287-1b8426c706c7&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_ZmFiZWE1NDAtZDI4NC00YTFiLTg4MzctZjkyNzdiOGM0YzMx@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n
+UID:040000008200E00074C5B7101A82E00800000000B5D5485A1344DD0100000000000000001000000075B4CC06A59F464DB37DF97F76AC3794
+SUMMARY:Bila Wayra / Florence
+DTSTART;TZID=W. Europe Standard Time:20260914T140000
+DTEND;TZID=W. Europe Standard Time:20260914T150000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:1
+LOCATION:Entrada 600 1A.1 Rokin 6P
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/366938182221860?p=NgWzDOyvevsnSIjVda\nVergadering-id: 366 938 182 221 860\nWachtwoordcode: bm6BQ72x\n________________________________\nHeeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDZmY2JkYzQtZWFjMi00ZTVhLWE1NzYtNGNmMTI5ZTEzY2Rl%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%2258803a09-d33d-4dff-b020-6843a6f15d7b%22%7d>\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=58803a09-d33d-4dff-b020-6843a6f15d7b&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_MDZmY2JkYzQtZWFjMi00ZTVhLWE1NzYtNGNmMTI5ZTEzY2Rl@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n
+UID:040000008200E00074C5B7101A82E00800000000E9AE921FF544DD01000000000000000010000000C2294A22B580184D90059F8114253683
+SUMMARY:Webinar lokaal eigendom kijken
+DTSTART;TZID=W. Europe Standard Time:20260915T120000
+DTEND;TZID=W. Europe Standard Time:20260915T130000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:3
+LOCATION:Entrada 600 3C Duivendrecht 10P HYB
+X-MICROSOFT-CDO-APPT-SEQUENCE:3
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n\n-----Oorspronkelijke afspraak-----\nVan: Marigliano\, Christina <c.marigliano@amsterdam.nl>\nVerzonden: woensdag 10 juni 2026 10:37\nAan: Marigliano\, Christina\; Chai Locher\; Eelke Kingma\; Bork\, Sarah\; Loots\, Naut\; Catz\, Nadine\; Muilekom\, Ludo van\; Kowsoleea\, Wayra\; Bardok\, Doede\; Jongsma\, Wibold\nCC: Bruinsma\, Rosanne\; Knol\, Menke\; Uijl\, Loeki den\; Nienhuis\, Annoesjka\; Wormgoor\, Marcel\; Veldman\, Else\; Bourguignon\, Britt\; Ledoux\, Yolanda\; Wijnen\, Mathieu\; Nathalia\, Kim\; Rudy Rooth\; Coen van der Pol\; Dignum\, Laura\nOnderwerp: Energierapport Schoon Schip\nTijd: dinsdag 15 september 2026 13:00-14:30 (UTC+01:00) Amsterdam\, Berlijn\, Bern\, Rome\, Stockholm\, Wenen.\nLocatie: Entrada 600 0D.2 Noord/Zuidlijn 16P HYB BAR\n\nHoi allen\,\n\nNaar aanleiding van de oplevering van het energierapport van Schoon Schip nodigen wij jullie graag uit om in gesprek te gaan met Schoon Schip over de resultaten van het rapport.\n\nNadere informatie volgt.\n\nMet vriendelijke groet\,\n\nChristina Marigliano\nKennismanager\nUitvoeringsorganisatie Infrastructuur en Energie / directie Energie i.o.\n\nGemeente Amsterdam\nX M 06 – 50 04 05 19\nX Entrada 600\, 1114 AA Amsterdam\nX Werkdagen: ma\, di\, do\, vr\nBlijf op de hoogte van Energie voor de Stad en abonneer je op de nieuwsbrief<https://nieuwsbrieven.amsterdam.nl/x/plugin/?pName=subscribe&MIDRID=S7a1MAYAA75&pLang=nl&Z=-446873547>\n\n\n\n\n
+UID:040000008200E00074C5B7101A82E008000000009075DC9AC4F8DC01000000000000000010000000D5FECB3BCFA79B4E83A81C7B6CC3C6C2
+SUMMARY:Energierapport Schoon Schip 
+DTSTART;TZID=W. Europe Standard Time:20260915T130000
+DTEND;TZID=W. Europe Standard Time:20260915T143000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Entrada 600 0D.2 Noord/Zuidlijn 16P HYB BAR
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ha Florence!\nIk ben jouw buddy en help je met alle vragen die je wellicht in de komende/weken maanden hebt.\n\n________________________________________________________________________________\nMicrosoft Teams meeting\nJoin: https://teams.microsoft.com/meet/321399222918713?p=nwU34aGmzTiIU3Bnca\nMeeting ID: 321 399 222 918 713\nPasscode: sN6ny3DM\n________________________________\nHeeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL> | System reference<https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmI0ZDA0YTItMGJkZi00MzdiLWJmNWUtMDExOTVmZDk2NjY2%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%22c097f7e3-d21e-4120-917a-9f34de70e710%22%7d>\nFor organizers: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=c097f7e3-d21e-4120-917a-9f34de70e710&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_NmI0ZDA0YTItMGJkZi00MzdiLWJmNWUtMDExOTVmZDk2NjY2@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n
+RRULE:FREQ=WEEKLY;UNTIL=20270302T123000Z;INTERVAL=1;BYDAY=TU;WKST=MO
+EXDATE;TZID=W. Europe Standard Time:20260922T133000,20261027T133000
+UID:040000008200E00074C5B7101A82E00800000000E84C10F5013ADD010000000000000000100000005EC976592766CB4EA885256A4A83D28D
+SUMMARY:Buddy bila
+DTSTART;TZID=W. Europe Standard Time:20260915T133000
+DTEND;TZID=W. Europe Standard Time:20260915T140000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:1
+LOCATION:Microsoft Teams-vergadering
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+RRULE:FREQ=WEEKLY;UNTIL=20270330T220000Z;INTERVAL=2;BYDAY=WE;WKST=SU
+EXDATE;TZID=W. Europe Standard Time:20261028T000000
+UID:040000008200E00074C5B7101A82E0080000000026576ECDD695DC01000000000000000010000000E454FCF9F0B2B64A8EEDA574732C42FD
+SUMMARY:Utrecht
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+RRULE:FREQ=WEEKLY;UNTIL=20270224T063000Z;INTERVAL=1;BYDAY=WE;WKST=MO
+EXDATE;TZID=W. Europe Standard Time:20261028T073000,20261104T073000
+UID:040000008200E00074C5B7101A82E008000000003B3985C6823FDD010000000000000000100000001F21DD7E831B4444BE755546C18BC7A6
+SUMMARY:Wyzer
+DTSTART;TZID=W. Europe Standard Time:20260916T073000
+DTEND;TZID=W. Europe Standard Time:20260916T120000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/379439604902748?p=c6IrkSO3umJCoSfKrH\nVergadering-id: 379 439 604 902 748\nWachtwoordcode: UD26UH3R\n________________________________\nHeeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDg5YzQ0NjYtYzJhOC00MDk2LTg5YjQtNzk4MDNlMjcyYWQ0%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%227ba50af2-b2f5-4b3b-9287-1b8426c706c7%22%7d>\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=7ba50af2-b2f5-4b3b-9287-1b8426c706c7&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_MDg5YzQ0NjYtYzJhOC00MDk2LTg5YjQtNzk4MDNlMjcyYWQ0@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n\n
+UID:040000008200E00074C5B7101A82E0080000000020A55EF7150EDD01000000000000000010000000B32D78262600BE4AB7E7378261A39547
+SUMMARY:Raadscommissie VLE
+DTSTART;TZID=W. Europe Standard Time:20260917T090000
+DTEND;TZID=W. Europe Standard Time:20260917T123000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:3
+LOCATION:Microsoft Teams-vergadering
+X-MICROSOFT-CDO-APPT-SEQUENCE:3
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/389997229717372?p=L4JO9gPuW9vO5XJtdt\nVergadering-id: 389 997 229 717 372\nWachtwoordcode: aK7Sh9LW\n________________________________\nHeeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODIwOGFiN2YtODZhMC00ZDYyLWE1NmQtYTE1YmVkNmU5NDU5%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%227ba50af2-b2f5-4b3b-9287-1b8426c706c7%22%7d>\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=7ba50af2-b2f5-4b3b-9287-1b8426c706c7&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_ODIwOGFiN2YtODZhMC00ZDYyLWE1NmQtYTE1YmVkNmU5NDU5@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n
+RRULE:FREQ=WEEKLY;UNTIL=20260918T110000Z;INTERVAL=1;BYDAY=FR;WKST=SU
+UID:040000008200E00074C5B7101A82E00800000000CF88A503923FDD01000000000000000010000000FC5B62D7C8A121439E78AC9A18A559A4
+SUMMARY:Bila Florence / Wayra
+DTSTART;TZID=W. Europe Standard Time:20260918T130000
+DTEND;TZID=W. Europe Standard Time:20260918T133000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:9
+LOCATION:Microsoft Teams-vergadering
+X-MICROSOFT-CDO-APPT-SEQUENCE:9
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E00800000000A3ADDA08923BDD01000000000000000010000000A2E12FBAFEFFDA48AC3C1C61DADC3799
+RECURRENCE-ID;TZID=W. Europe Standard Time:20260921T120000
+SUMMARY:Lunch (afspraken in overleg)
+DTSTART;TZID=W. Europe Standard Time:20260921T120000
+DTEND;TZID=W. Europe Standard Time:20260921T123000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n\n-----Oorspronkelijke afspraak-----\nVan: Assistenten Energietransitie <Assistenten.energietransitie@amsterdam.nl>\nVerzonden: donderdag 23 oktober 2025 11:05\nAan: Assistenten Energietransitie\; Team Energietransitie\nCC: Wubbolt\, Hedwig\; Zonneveldt\, Edgar\; Sloet\, Lukas\; Meier\, Daniel\; Koelemij\, Theun\; Vos\, Linda\; Bruinsma\, Rosanne\; Bijleveld\, Tesse\; Taanman\, Joris\; Kleijn\, Wouter\; Peer\, Justus van\; Hoogendijk\, Eline\; Geurts\, Barn\; Wallerbos\, Paul\; Oey\, Sarah\; Visser\, Nynke\; Grooten\, Jeroen\; Colenbrander\, Laura\; Springer\, Wendy\; Craats\, Christel van de\; Leijdekkers\, Jesse\; Kowsoleea\, Wayra\; Grispen\, Nina\; Giessen\, Art van der\; Eijk\, Mirrijn van\; Hament\, Pascal\; Voerman\, Ruben\; Waardenburg\, Esmée\; Lamboo\, Sam\; Verhoeven\, Maarten\; Spruijt\, Ko\; Roos\, Suzanne\; Grondelle\, Wilmar van\; Walen\, Lisa\; Bardok\, Doede\; Walen\, Tim van\; Roo\, Esmée de\; Waaijer\, Bob\; Bakker\, Joos de\; Rijn\, Ruud van\; Roest\, Menno\; Spruitenburg\, Dick\; Bos\, Vera van den\; Beek\, Bram van\; Iseli\, Bernadette\; Kartomihardjo\, Jess\; Mol\, Tara\; Vallenduuk\, Maaike\; Azar\, Natali\; Wildschut\, Joyce\; Vertelman\, Bart\; Verberne\, Noor\; Stap\, Mickey van der\nOnderwerp: Weekstart team Energietransitie\nTijd: Vindt plaats elke maandag vanaf 5-1-2026 tot 31-12-2026 van 12:30 tot 13:00 (UTC+01:00) Amsterdam\, Berlijn\, Bern\, Rome\, Stockholm\, Wenen.\nLocatie: Locatie gewijzigd naar Entrada 2e verdieping - vleugel D - grote aanlandtafel\n\nUpdate 23-01-2026: All\, de vergaderruimte werd niet als heel prettig ervaren. Vooralsnog gaan we kijken hoe het werkt als we de weekstarts op de 2e verdieping zelf gaan houden. Er is een groot beeldscherm en ik ga even kijken of we dat up and running kunnen krijgen en anders leggen we de Teams-verbinding via een laptop. Het is dus even allemaal uittesten maar hopelijk komt het allemaal goed. Groet\, Hedwig\n\nAll\, vooralsnog plannen we de weekstart door in 2026. Dit is de grootst beschikbare vergaderruimte. In de loop van de tijd komt er hopelijk iets beter beschikbaars. Groet\, Hedwig\n________________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzM2MTZjODItOTA5Ni00ZjdmLWI5OTUtYjdlZTBiZmNiNjll%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%229c02b874-6b1d-468b-9692-a935b1b2ba12%22%7d>\nVergadering-id: 331 787 093 504 3\nWachtwoordcode: uL6hi6m6\n________________________________\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=9c02b874-6b1d-468b-9692-a935b1b2ba12&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_MzM2MTZjODItOTA5Ni00ZjdmLWI5OTUtYjdlZTBiZmNiNjll@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n\n
+UID:040000008200E00074C5B7101A82E008000000008CE5C612FC43DC0100000000000000001000000058B34841A3170A4EB491E94EAE2D6C48
+RECURRENCE-ID;TZID=W. Europe Standard Time:20260921T123000
+SUMMARY:Weekstart team Energietransitie
+DTSTART;TZID=W. Europe Standard Time:20260921T123000
+DTEND;TZID=W. Europe Standard Time:20260921T130000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:15
+LOCATION:Locatie gewijzigd naar Entrada 2e verdieping - vleugel D - grote aanlandtafel
+X-MICROSOFT-CDO-APPT-SEQUENCE:15
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:18/9 Met een half uur verlengd om goudvisie te bespreken en final check DIM.\n\n______________________________________________________________________________\n\nMicrosoft Teams Heeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL>\n\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjM3NTE0NDYtZTNiMC00YWJiLWJjMDYtM2Q2MTNjMjYwNGQy%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%229c02b874-6b1d-468b-9692-a935b1b2ba12%22%7d>\n\nVergadering-id: 379 507 254 188 71\n\nWachtwoordcode: PL7Vi7o5\n\n________________________________\n\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=9c02b874-6b1d-468b-9692-a935b1b2ba12&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_MjM3NTE0NDYtZTNiMC00YWJiLWJjMDYtM2Q2MTNjMjYwNGQy@thread.v2&messageId=0&language=nl-NL>\n\n________________________________________________________________________________\n\n\n
+UID:040000008200E00074C5B7101A82E0080000000060F9351B0469DC01000000000000000010000000EB9F19AEFE3DAF4EA3BDD0D0F01CF14E
+RECURRENCE-ID;TZID=W. Europe Standard Time:20260921T101500
+SUMMARY:Wekelijks Kernteam Energiegemeenschappen (Hybride)
+DTSTART;TZID=W. Europe Standard Time:20260922T141500
+DTEND;TZID=W. Europe Standard Time:20260922T151000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:75
+LOCATION:Microsoft Teams-vergadering\; Entrada 600.3C.2 Waterstof
+X-MICROSOFT-CDO-APPT-SEQUENCE:75
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+RRULE:FREQ=WEEKLY;UNTIL=20270406T220000Z;INTERVAL=2;BYDAY=WE;WKST=MO
+EXDATE;TZID=W. Europe Standard Time:20261104T000000
+UID:040000008200E00074C5B7101A82E00800000000D2A4ADB6ADA0DC010000000000000000100000008239CC3081CB714CAD46F6506CDB4481
+SUMMARY:Zwolle
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E00800000000418BEA804E44DD0100000000000000001000000029EE93F0182EF242AD21FD2EE44561C2
+SUMMARY:APEC subsidieplan | Reminder feedback
+DTSTART;TZID=W. Europe Standard Time:20260923T083000
+DTEND;TZID=W. Europe Standard Time:20260923T090000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/33979254683591?p=29k7ZbGnMcJvwdXeZF\nVergadering-id: 339 792 546 835 91\nWachtwoordcode: yd7Vv2yy\n________________________________\nHeeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2JmNDMzMDAtNjI4Ni00YTJmLThlMGYtNWU2OWJkYTk1NDJl%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%2258803a09-d33d-4dff-b020-6843a6f15d7b%22%7d>\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=58803a09-d33d-4dff-b020-6843a6f15d7b&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_Y2JmNDMzMDAtNjI4Ni00YTJmLThlMGYtNWU2OWJkYTk1NDJl@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n
+UID:040000008200E00074C5B7101A82E008000000009E2146236247DD010000000000000000100000001A0A191AFECDB9459DC425E0FB0136A0
+SUMMARY:Bila Wayra / Florence
+DTSTART;TZID=W. Europe Standard Time:20260923T100000
+DTEND;TZID=W. Europe Standard Time:20260923T103000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:1
+LOCATION:Microsoft Teams-vergadering
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/357235156118857?p=bK27tuEnjniikZWW5h\nVergadering-id: 357 235 156 118 857\nWachtwoordcode: kK6dC7eN\n________________________________\nHeeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWJkMjI1OGEtZjM5MC00NzZmLWFhMDYtNTdjN2E2ODE5MzA5%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%2258803a09-d33d-4dff-b020-6843a6f15d7b%22%7d>\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=58803a09-d33d-4dff-b020-6843a6f15d7b&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_MWJkMjI1OGEtZjM5MC00NzZmLWFhMDYtNTdjN2E2ODE5MzA5@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n
+UID:040000008200E00074C5B7101A82E00800000000326398812E4BDD010000000000000000100000007631D28EE0579545A035AC5F266052A1
+SUMMARY:Programmaoverleg voorbereiden
+DTSTART;TZID=W. Europe Standard Time:20260923T130000
+DTEND;TZID=W. Europe Standard Time:20260923T133000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:1
+LOCATION:Microsoft Teams-vergadering
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E00800000000A7246F296247DD01000000000000000010000000801913073B46D44A964675A61C6B9219
+SUMMARY:Bezet
+DTSTART;TZID=W. Europe Standard Time:20260923T133000
+DTEND;TZID=W. Europe Standard Time:20260923T140000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E00800000000F028BCF83144DD010000000000000000100000002E0B3A9BBEFD924E8C462DC226A8AF74
+SUMMARY:Reistijd Beachclub Sunsea
+DTSTART;TZID=W. Europe Standard Time:20260924T113000
+DTEND;TZID=W. Europe Standard Time:20260924T130000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:BEACHCLUB SUNSEA (Strand Zuiderbad 110\, Wijk aan Zee  Noord-Holland)
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏖️ TEAMDAG ALERT! ☀️ Donderdag 24 september!\n\nTijd om de laptop dicht te klappen en samen richting het strand te gaan! 😎\nWe hebben een superleuke middag voor jullie in petto bij Beachclub SunSea in Wijk aan Zee. We beginnen met een lekkere lunchen en de strijd met elkaar aan tijdens verschillende strandactiviteiten en sluiten de dag natuurlijk af met een heerlijke BBQ. 🍔🔥\n\n📍 LOCATIE\nStart: 13:00 uur\nBeachclub SunSea\nStrand Zuiderbad 110\n1949 BA Wijk aan Zee\nLet op: de opgang is via de Zwaanstraat. Ga linksaf en daarna nog ongeveer 200 meter door.\n\n🚗 PARKEREN & CARPOOLEN\nParkeren kan gratis bij de locatie! 🎉\nOmdat we met een flinke groep zijn\, willen we jullie vragen om zoveel mogelijk samen te rijden. Stem onderling dus even af wie er rijdt en wie gezellig mee kan rijden. Scheelt auto’s én is natuurlijk een stuk gezelliger! 😉\n\n🚆 KOM JE MET HET OV?\nOok met het openbaar vervoer is de locatie goed bereikbaar! Vanaf Amsterdam Centraal neem je de trein naar Beverwijk. Daar stap je over op bus 75 richting Wijk aan Zee en stap je uit bij halte Zeecroft. Vanaf daar is het nog een stukje lopen naar het strand en Beachclub SunSea.\nReken vanaf Amsterdam Centraal op ongeveer 1 uur en 20 minuten reistijd. Check op de dag zelf voor de zekerheid even de actuele vertrektijden via de reisplanner. 😊\n\nMocht je vragen hebben over het vervoer neem contact op met de feestcommissie via de\nAssistenten.energietransitie@amsterdam.nl<mailto:Assistenten.energietransitie@amsterdam.nl> mailbox.\n\n\n🌊 NEEM DROGE KLEREN MEE!\nTrek iets aan waarin je lekker kunt bewegen en neem badkleding\, droge kleding én een handdoek mee. Er zijn wetsuits aanwezig indien gewenst. Met de strandactiviteiten is de kans namelijk aanwezig dat je niet helemaal droog blijft… 😜\nEn verder? Niks meenemen behalve een goed humeur!\nWij zorgen voor koffie/thee\, lunch\, leuke activiteiten\, gezelligheid én een heerlijke BBQ. ☕🥗🏐🔥\nWe hebben er ontzettend veel zin in en hopen jullie allemaal te zien voor een middag vol strand\, gezelligheid\, competitie\, lekker eten en vooral heel veel lol! ❤️\n\nMocht je specifieke dieetwensen hebben dan horen wij dat graag. De BBQ is vrijwel vegetarisch!\nMail naar Assistenten.energietransitie@amsterdam.nl<mailto:Assistenten.energietransitie@amsterdam.nl>.\n\nTot op het strand! 🏖️☀️🍹\n\n
+UID:040000008200E00074C5B7101A82E0080000000021431086C912DD010000000000000000100000001F415E50A74E6E4BB5841325D989E623
+SUMMARY:Jaarlijks teamuitje team Energietransitie 2026
+DTSTART;TZID=W. Europe Standard Time:20260924T130000
+DTEND;TZID=W. Europe Standard Time:20260924T210000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:3
+LOCATION:BEACHCLUB SUNSEA (Strand Zuiderbad 110\, Wijk aan Zee  Noord-Holland)
+X-MICROSOFT-CDO-APPT-SEQUENCE:3
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E00800000000A3ADDA08923BDD01000000000000000010000000A2E12FBAFEFFDA48AC3C1C61DADC3799
+RECURRENCE-ID;TZID=W. Europe Standard Time:20260925T120000
+SUMMARY:Lunch (afspraken in overleg)
+DTSTART;TZID=W. Europe Standard Time:20260925T120000
+DTEND;TZID=W. Europe Standard Time:20260925T123000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/389997229717372?p=L4JO9gPuW9vO5XJtdt\nVergadering-id: 389 997 229 717 372\nWachtwoordcode: aK7Sh9LW\n________________________________\nHeeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODIwOGFiN2YtODZhMC00ZDYyLWE1NmQtYTE1YmVkNmU5NDU5%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%227ba50af2-b2f5-4b3b-9287-1b8426c706c7%22%7d>\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=7ba50af2-b2f5-4b3b-9287-1b8426c706c7&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_ODIwOGFiN2YtODZhMC00ZDYyLWE1NmQtYTE1YmVkNmU5NDU5@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n
+UID:040000008200E00074C5B7101A82E008000000001332E1449B49DD01000000000000000010000000612339A2EF01D64CA765E9227D2A44FC
+RECURRENCE-ID;TZID=W. Europe Standard Time:20260925T130000
+SUMMARY:Bila Florence / Wayra
+DTSTART;TZID=W. Europe Standard Time:20260925T123000
+DTEND;TZID=W. Europe Standard Time:20260925T133000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:1
+LOCATION:Microsoft Teams-vergadering
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/389997229717372?p=L4JO9gPuW9vO5XJtdt\nVergadering-id: 389 997 229 717 372\nWachtwoordcode: aK7Sh9LW\n________________________________\nHeeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODIwOGFiN2YtODZhMC00ZDYyLWE1NmQtYTE1YmVkNmU5NDU5%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%227ba50af2-b2f5-4b3b-9287-1b8426c706c7%22%7d>\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=7ba50af2-b2f5-4b3b-9287-1b8426c706c7&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_ODIwOGFiN2YtODZhMC00ZDYyLWE1NmQtYTE1YmVkNmU5NDU5@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n
+RRULE:FREQ=WEEKLY;UNTIL=20270226T120000Z;INTERVAL=1;BYDAY=FR;WKST=SU
+UID:040000008200E00074C5B7101A82E008000000001332E1449B49DD01000000000000000010000000612339A2EF01D64CA765E9227D2A44FC
+SUMMARY:Bila Florence / Wayra
+DTSTART;TZID=W. Europe Standard Time:20260925T130000
+DTEND;TZID=W. Europe Standard Time:20260925T140000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Microsoft Teams-vergadering
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E00800000000947389859B49DD01000000000000000010000000A73FD193A29D7841B6FEAB1E7753E19F
+SUMMARY:Bila Lars / Florence
+DTSTART;TZID=W. Europe Standard Time:20260925T140000
+DTEND;TZID=W. Europe Standard Time:20260925T150000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E0080000000015C032744E44DD01000000000000000010000000362F867E9A4586409DF8FA166B707BBE
+SUMMARY:APEC subsidieplan | Feedback doornemen
+DTSTART;TZID=W. Europe Standard Time:20260925T150000
+DTEND;TZID=W. Europe Standard Time:20260925T163000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Nieuwe overlegreeks op Entrada/via Teams en elke week op de maandag 10:30.\nHier de link naar een sheet waar iedereen zelf elke week agendapunten kan zetten.\n2026 Overleg sheet voor Kernteam Energiegemeenschappen.docx<https://hoofdstad.sharepoint.com/:w:/r/sites/SW-RE-RD-Energietransitie/Gedeelde%20documenten/PROGRAMMA%20ENERGIEGEMEENSCHAPPEN/Programma%202026/02%20Overleggen/04.%20Kernteam%20Energiegemeenschappen/2026%20Overleg%20sheet%20voor%20Kernteam%20Energiegemeenschappen.docx?d=w1e0c3483da0c4b3da0e6956a4cf85166&csf=1&web=1&e=NpaDkG>\nGr.\, Judith\n______________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjM3NTE0NDYtZTNiMC00YWJiLWJjMDYtM2Q2MTNjMjYwNGQy%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%229c02b874-6b1d-468b-9692-a935b1b2ba12%22%7d>\nVergadering-id: 379 507 254 188 71\nWachtwoordcode: PL7Vi7o5\n________________________________\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=9c02b874-6b1d-468b-9692-a935b1b2ba12&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_MjM3NTE0NDYtZTNiMC00YWJiLWJjMDYtM2Q2MTNjMjYwNGQy@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n\n
+UID:040000008200E00074C5B7101A82E0080000000060F9351B0469DC01000000000000000010000000EB9F19AEFE3DAF4EA3BDD0D0F01CF14E
+RECURRENCE-ID;TZID=W. Europe Standard Time:20260928T101500
+SUMMARY:Wekelijks Kernteam Energiegemeenschappen (Hybride)
+DTSTART;TZID=W. Europe Standard Time:20260928T100000
+DTEND;TZID=W. Europe Standard Time:20260928T110000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:57
+LOCATION:Microsoft Teams-vergadering\; Entrada 600 3C Duivendrecht 10P HYB
+X-MICROSOFT-CDO-APPT-SEQUENCE:57
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E00800000000044FA9FE1A4FDD0100000000000000001000000066D4BD536DC0344883BF830881EF8E75
+SUMMARY:APEC subsidieplan - feedback
+DTSTART;TZID=W. Europe Standard Time:20260928T110000
+DTEND;TZID=W. Europe Standard Time:20260928T120000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E00800000000A3ADDA08923BDD01000000000000000010000000A2E12FBAFEFFDA48AC3C1C61DADC3799
+RECURRENCE-ID;TZID=W. Europe Standard Time:20260928T120000
+SUMMARY:Lunch (afspraken in overleg)
+DTSTART;TZID=W. Europe Standard Time:20260928T120000
+DTEND;TZID=W. Europe Standard Time:20260928T123000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n\n-----Oorspronkelijke afspraak-----\nVan: Assistenten Energietransitie <Assistenten.energietransitie@amsterdam.nl>\nVerzonden: donderdag 23 oktober 2025 11:05\nAan: Assistenten Energietransitie\; Team Energietransitie\nCC: Wubbolt\, Hedwig\; Zonneveldt\, Edgar\; Sloet\, Lukas\; Meier\, Daniel\; Koelemij\, Theun\; Vos\, Linda\; Bruinsma\, Rosanne\; Bijleveld\, Tesse\; Taanman\, Joris\; Kleijn\, Wouter\; Peer\, Justus van\; Hoogendijk\, Eline\; Geurts\, Barn\; Wallerbos\, Paul\; Oey\, Sarah\; Visser\, Nynke\; Grooten\, Jeroen\; Colenbrander\, Laura\; Springer\, Wendy\; Craats\, Christel van de\; Leijdekkers\, Jesse\; Kowsoleea\, Wayra\; Grispen\, Nina\; Giessen\, Art van der\; Eijk\, Mirrijn van\; Hament\, Pascal\; Voerman\, Ruben\; Waardenburg\, Esmée\; Lamboo\, Sam\; Verhoeven\, Maarten\; Spruijt\, Ko\; Roos\, Suzanne\; Grondelle\, Wilmar van\; Walen\, Lisa\; Bardok\, Doede\; Walen\, Tim van\; Roo\, Esmée de\; Waaijer\, Bob\; Bakker\, Joos de\; Rijn\, Ruud van\; Roest\, Menno\; Spruitenburg\, Dick\; Bos\, Vera van den\; Beek\, Bram van\; Iseli\, Bernadette\; Kartomihardjo\, Jess\; Mol\, Tara\; Vallenduuk\, Maaike\; Azar\, Natali\; Wildschut\, Joyce\; Vertelman\, Bart\; Verberne\, Noor\; Stap\, Mickey van der\nOnderwerp: Weekstart team Energietransitie\nTijd: Vindt plaats elke maandag vanaf 5-1-2026 tot 31-12-2026 van 12:30 tot 13:00 (UTC+01:00) Amsterdam\, Berlijn\, Bern\, Rome\, Stockholm\, Wenen.\nLocatie: Locatie gewijzigd naar Entrada 2e verdieping - vleugel D - grote aanlandtafel\n\nUpdate 23-01-2026: All\, de vergaderruimte werd niet als heel prettig ervaren. Vooralsnog gaan we kijken hoe het werkt als we de weekstarts op de 2e verdieping zelf gaan houden. Er is een groot beeldscherm en ik ga even kijken of we dat up and running kunnen krijgen en anders leggen we de Teams-verbinding via een laptop. Het is dus even allemaal uittesten maar hopelijk komt het allemaal goed. Groet\, Hedwig\n\nAll\, vooralsnog plannen we de weekstart door in 2026. Dit is de grootst beschikbare vergaderruimte. In de loop van de tijd komt er hopelijk iets beter beschikbaars. Groet\, Hedwig\n________________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzM2MTZjODItOTA5Ni00ZjdmLWI5OTUtYjdlZTBiZmNiNjll%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%229c02b874-6b1d-468b-9692-a935b1b2ba12%22%7d>\nVergadering-id: 331 787 093 504 3\nWachtwoordcode: uL6hi6m6\n________________________________\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=9c02b874-6b1d-468b-9692-a935b1b2ba12&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_MzM2MTZjODItOTA5Ni00ZjdmLWI5OTUtYjdlZTBiZmNiNjll@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n\n
+UID:040000008200E00074C5B7101A82E008000000008CE5C612FC43DC0100000000000000001000000058B34841A3170A4EB491E94EAE2D6C48
+RECURRENCE-ID;TZID=W. Europe Standard Time:20260928T123000
+SUMMARY:Weekstart team Energietransitie
+DTSTART;TZID=W. Europe Standard Time:20260928T123000
+DTEND;TZID=W. Europe Standard Time:20260928T130000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:15
+LOCATION:Locatie gewijzigd naar Entrada 2e verdieping - vleugel D - grote aanlandtafel
+X-MICROSOFT-CDO-APPT-SEQUENCE:15
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bepalen hoogtes subsidies tbv directiebesluit\n\n\n\n@Hoven\, Florence van der<mailto:f.van.der.hoven@amsterdam.nl>: kun jij het APEC en OE subsieplan toevoegen aan deze afspraak? Het is niet nodig om aan te sluiten bij dit overleg.\n\n________________________________________________________________________________\n\nMicrosoft Teams-vergadering\n\nDeelnemen: https://teams.microsoft.com/meet/337743941862821?p=oep5c8gTsD0DmRvMG0\n\nVergadering-id: 337 743 941 862 821\n\nWachtwoordcode: ut6bk9Dt\n\n________________________________\n\nHeeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL> | <https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzRhMWI2ZjYtZjMxZC00MzlkLWJhNzMtMzcxMzc2NDdkOGU4%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%227ba50af2-b2f5-4b3b-9287-1b8426c706c7%22%7d> Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzRhMWI2ZjYtZjMxZC00MzlkLWJhNzMtMzcxMzc2NDdkOGU4%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%227ba50af2-b2f5-4b3b-9287-1b8426c706c7%22%7d>\n\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=7ba50af2-b2f5-4b3b-9287-1b8426c706c7&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_NzRhMWI2ZjYtZjMxZC00MzlkLWJhNzMtMzcxMzc2NDdkOGU4@thread.v2&messageId=0&language=nl-NL>\n\n________________________________________________________________________________\n\n\n
+UID:040000008200E00074C5B7101A82E00800000000B05724FCD84CDD01000000000000000010000000281BBF8809B1C141BB358300FD241F87
+SUMMARY:Beoordeling subsidiehoogtes APEC/OE
+DTSTART;TZID=W. Europe Standard Time:20260928T130000
+DTEND;TZID=W. Europe Standard Time:20260928T134500
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:3
+LOCATION:Microsoft Teams-vergadering
+X-MICROSOFT-CDO-APPT-SEQUENCE:3
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E0080000000027AE9699114FDD01000000000000000010000000FE7E3E577A27174D9C2F05DC765F8059
+SUMMARY:Subsidieplan OE lezen
+DTSTART;TZID=W. Europe Standard Time:20260928T140000
+DTEND;TZID=W. Europe Standard Time:20260928T150000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/367227494676120?p=65lbcSdoqOj6ujv9jW\nVergadering-id: 367 227 494 676 120\nWachtwoordcode: ym2Ts6dj\n________________________________\nHeeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODQxODRjNjctODljMy00NjdjLTg4YTktNDc1MWNjNDJhZDIz%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%227ba50af2-b2f5-4b3b-9287-1b8426c706c7%22%7d>\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=7ba50af2-b2f5-4b3b-9287-1b8426c706c7&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_ODQxODRjNjctODljMy00NjdjLTg4YTktNDc1MWNjNDJhZDIz@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n
+RRULE:FREQ=WEEKLY;UNTIL=20270222T150000Z;INTERVAL=1;BYDAY=MO;WKST=MO
+UID:040000008200E00074C5B7101A82E00800000000B3B021BD9B49DD01000000000000000010000000CB76FC39320EE141B3F38E1A4332B7BC
+SUMMARY:Bila Florence / Wayra
+DTSTART;TZID=W. Europe Standard Time:20260928T160000
+DTEND;TZID=W. Europe Standard Time:20260928T163000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:1
+LOCATION:Microsoft Teams-vergadering
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E0080000000096D113764A4FDD01000000000000000010000000EA51FE9435F05E43850AEC0325AA1821
+SUMMARY:Samenwerkingsafspraken APEC
+DTSTART;TZID=W. Europe Standard Time:20260929T080000
+DTEND;TZID=W. Europe Standard Time:20260929T090000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ha Florence!\nIk ben jouw buddy en help je met alle vragen die je wellicht in de komende/weken maanden hebt.\n\n________________________________________________________________________________\nMicrosoft Teams meeting\nJoin: https://teams.microsoft.com/meet/321399222918713?p=nwU34aGmzTiIU3Bnca\nMeeting ID: 321 399 222 918 713\nPasscode: sN6ny3DM\n________________________________\nHeeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL> | System reference<https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmI0ZDA0YTItMGJkZi00MzdiLWJmNWUtMDExOTVmZDk2NjY2%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%22c097f7e3-d21e-4120-917a-9f34de70e710%22%7d>\nFor organizers: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=c097f7e3-d21e-4120-917a-9f34de70e710&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_NmI0ZDA0YTItMGJkZi00MzdiLWJmNWUtMDExOTVmZDk2NjY2@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n
+UID:040000008200E00074C5B7101A82E00800000000E84C10F5013ADD010000000000000000100000005EC976592766CB4EA885256A4A83D28D
+RECURRENCE-ID;TZID=W. Europe Standard Time:20260929T133000
+SUMMARY:Buddy bila
+DTSTART;TZID=W. Europe Standard Time:20260929T113000
+DTEND;TZID=W. Europe Standard Time:20260929T120000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:4
+LOCATION:Microsoft Teams-vergadering
+X-MICROSOFT-CDO-APPT-SEQUENCE:4
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E0080000000008F52C133741DD01000000000000000010000000BEFDCB173F5083499EAE58F3F2DAC8EF
+SUMMARY:Vrij
+DTSTART;TZID=W. Europe Standard Time:20260929T133000
+DTEND;TZID=W. Europe Standard Time:20260929T173000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:OOF
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/314785212921491?p=jaKNT2leUgOtMs297y\nVergadering-id: 314 785 212 921 491\nWachtwoordcode: YE7NS73J\n________________________________\nHeeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2UxODE2YTktYjUxMi00YzFhLWJkNjItNWI5YTI2YTJmMDUy%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%2258803a09-d33d-4dff-b020-6843a6f15d7b%22%7d>\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=58803a09-d33d-4dff-b020-6843a6f15d7b&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_N2UxODE2YTktYjUxMi00YzFhLWJkNjItNWI5YTI2YTJmMDUy@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n
+UID:040000008200E00074C5B7101A82E008000000000E61EC5D4E44DD010000000000000000100000000F639F140E7DDB4B97677305295CFC10
+SUMMARY:APEC subsidieplan | Feedback bespreken
+DTSTART;TZID=W. Europe Standard Time:20260929T140000
+DTEND;TZID=W. Europe Standard Time:20260929T153000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:3
+LOCATION:Microsoft Teams-vergadering
+X-MICROSOFT-CDO-APPT-SEQUENCE:3
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E00800000000749E2B4CE24CDD01000000000000000010000000764F41D97FECC44286F331877B3016E0
+SUMMARY:Raadsvergadering
+DTSTART;TZID=W. Europe Standard Time:20260930T130000
+DTEND;TZID=W. Europe Standard Time:20260930T173000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/36103677630603?p=Tdh4KhtORA1T0XGGEk\nVergadering-id: 361 036 776 306 03\nWachtwoordcode: 7yP785Jn\n________________________________\nHeeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDBmNDE5ZWUtNWZjMi00NzY4LWFmZjktZTI4NzZjZTAwNzVk%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%227ba50af2-b2f5-4b3b-9287-1b8426c706c7%22%7d>\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=7ba50af2-b2f5-4b3b-9287-1b8426c706c7&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_MDBmNDE5ZWUtNWZjMi00NzY4LWFmZjktZTI4NzZjZTAwNzVk@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n
+RRULE:FREQ=WEEKLY;UNTIL=20270224T130000Z;INTERVAL=1;BYDAY=WE;WKST=MO
+UID:040000008200E00074C5B7101A82E008000000006B231EFC9B49DD01000000000000000010000000FF5E031EBC6D2A4F8B7C15D9290FBDC8
+SUMMARY:Bila Florence / Wayra
+DTSTART;TZID=W. Europe Standard Time:20260930T140000
+DTEND;TZID=W. Europe Standard Time:20260930T143000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:1
+LOCATION:Microsoft Teams-vergadering
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E00800000000D2870030504FDD01000000000000000010000000F6D73A3AC5F9B347B190270122F9F404
+SUMMARY:Raadsvergadering
+DTSTART;TZID=W. Europe Standard Time:20260930T193000
+DTEND;TZID=W. Europe Standard Time:20260930T223000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E008000000007C2A71FF6F51DD01000000000000000010000000893B4F0D65FEC94AB9466EC440B28E30
+SUMMARY:Ziek
+DTSTART;TZID=W. Europe Standard Time:20261001T080000
+DTEND;TZID=W. Europe Standard Time:20261001T170000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teamslink: Maandstart Energie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDU3YjFmODktYTUwOS00NmFhLWI5NzMtOGE1YzE3YzVkOWU2%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%220ea2f948-2967-4601-be65-70910f699f33%22%7d>\n\nBeste collega’s\,\nWe starten ook dit jaar weer elke maand met de Maandstart Energie op de eerste donderdag van de maand.\n\nMaandstart Energie is hét moment om op de hoogte te blijven van de laatste actualiteiten\, kennis te maken met nieuwe collega’s en highlights uit projecten te horen. Informatie die per definitie relevant is voor je werk.\nInclusief lunch\, hybride is mogelijk maar terugkijken niet. Zorg dus dat je erbij bent.\nWil je zelf een onderwerp delen tijdens de maandstart? Dat kan. Bij de maandstart heb je een breed publiek maar minder tijd.\nJe krijgt dan max. 5 minuten en mag één slide aanleveren voor je verhaal. Mogelijk kun je doorverwijzen naar een plek of moment waar meer informatie te halen is. Aanmelden kan via dit mailadres.\n\nWil je er fysiek bij zijn\, klik dan op ‘Accepteren/Het antwoord nu verzenden’.\nWanneer je deelneemt via Teams\, klik dan op ‘Voorlopig accepteren/Het antwoord nu verzenden’.\nZo weten we hoeveel lunch we moeten serveren en voorkomen we verspilling.\n\nDe lunch wordt na afloop om 12u geserveerd.\n\nGroeten namens het kennisdeelteam\,\nHedwig en Jolanda\n
+RRULE:FREQ=MONTHLY;UNTIL=20261203T100000Z;INTERVAL=1;BYDAY=1TH
+UID:040000008200E00074C5B7101A82E0080000000050889810806BDC01000000000000000010000000A6F8FCA7E9A4D043AAB875367E0E60F5
+SUMMARY:Maandstart Energie - met lunch
+DTSTART;TZID=W. Europe Standard Time:20261001T110000
+DTEND;TZID=W. Europe Standard Time:20261001T123000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:173
+LOCATION:Entrada 600: bedrijfsrestaurant of via MS Teams - zie link bovenin tekstvak
+X-MICROSOFT-CDO-APPT-SEQUENCE:173
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teamslink: Maandstart Energie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDU3YjFmODktYTUwOS00NmFhLWI5NzMtOGE1YzE3YzVkOWU2%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%220ea2f948-2967-4601-be65-70910f699f33%22%7d>\n\nBeste collega’s\,\nWe starten ook dit jaar weer elke maand met de Maandstart Energie op de eerste donderdag van de maand.\n\nMaandstart Energie is hét moment om op de hoogte te blijven van de laatste actualiteiten\, kennis te maken met nieuwe collega’s en highlights uit projecten te horen. Informatie die per definitie relevant is voor je werk.\nInclusief lunch\, hybride is mogelijk maar terugkijken niet. Zorg dus dat je erbij bent.\nWil je zelf een onderwerp delen tijdens de maandstart? Dat kan. Bij de maandstart heb je een breed publiek maar minder tijd.\nJe krijgt dan max. 5 minuten en mag één slide aanleveren voor je verhaal. Mogelijk kun je doorverwijzen naar een plek of moment waar meer informatie te halen is. Aanmelden kan via dit mailadres.\n\nWil je er fysiek bij zijn\, klik dan op ‘Accepteren/Het antwoord nu verzenden’.\nWanneer je deelneemt via Teams\, klik dan op ‘Voorlopig accepteren/Het antwoord nu verzenden’.\nZo weten we hoeveel lunch we moeten serveren en voorkomen we verspilling.\n\nDe lunch wordt na afloop om 12u geserveerd.\n\nGroeten namens het kennisdeelteam\,\nHedwig en Jolanda\n
+UID:040000008200E00074C5B7101A82E0080000000050889810806BDC01000000000000000010000000A6F8FCA7E9A4D043AAB875367E0E60F5
+RECURRENCE-ID;TZID=W. Europe Standard Time:20261001T110000
+SUMMARY:Maandstart Energie - met lunch
+DTSTART;TZID=W. Europe Standard Time:20261001T110000
+DTEND;TZID=W. Europe Standard Time:20261001T123000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:176
+LOCATION:Entrada 600: bedrijfsrestaurant of via MS Teams - zie link bovenin tekstvak
+X-MICROSOFT-CDO-APPT-SEQUENCE:176
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E00800000000A0189AA8114FDD01000000000000000010000000D1B069365D31224B97EDEF4D48ACB461
+SUMMARY:Geen afspraken inplannen
+DTSTART;TZID=W. Europe Standard Time:20261002T073000
+DTEND;TZID=W. Europe Standard Time:20261002T100000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/399093293693024?p=wbVZs5pbibViPb7TdU\nVergadering-id: 399 093 293 693 024\nWachtwoordcode: s5Wg7hz7\n________________________________\nHeeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjAzYWRmN2MtYjc5YS00MzBlLTljOTgtZmFmYjMyNzlhZmE3%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%22c097f7e3-d21e-4120-917a-9f34de70e710%22%7d>\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=c097f7e3-d21e-4120-917a-9f34de70e710&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_NjAzYWRmN2MtYjc5YS00MzBlLTljOTgtZmFmYjMyNzlhZmE3@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n
+UID:040000008200E00074C5B7101A82E00800000000C1DEFFDA6F4BDD01000000000000000010000000C6B2244195009F46BC5E65F60FCB60F5
+SUMMARY:Geannuleerd: Bespreken feedback - Subsidieplan OE
+DTSTART;TZID=W. Europe Standard Time:20261002T100000
+DTEND;TZID=W. Europe Standard Time:20261002T110000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:2
+LOCATION:Microsoft Teams-vergadering
+X-MICROSOFT-CDO-APPT-SEQUENCE:2
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/389997229717372?p=L4JO9gPuW9vO5XJtdt\nVergadering-id: 389 997 229 717 372\nWachtwoordcode: aK7Sh9LW\n________________________________\nHeeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODIwOGFiN2YtODZhMC00ZDYyLWE1NmQtYTE1YmVkNmU5NDU5%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%227ba50af2-b2f5-4b3b-9287-1b8426c706c7%22%7d>\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=7ba50af2-b2f5-4b3b-9287-1b8426c706c7&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_ODIwOGFiN2YtODZhMC00ZDYyLWE1NmQtYTE1YmVkNmU5NDU5@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n
+UID:040000008200E00074C5B7101A82E008000000001332E1449B49DD01000000000000000010000000612339A2EF01D64CA765E9227D2A44FC
+RECURRENCE-ID;TZID=W. Europe Standard Time:20261002T130000
+SUMMARY:Bila Florence / Wayra
+DTSTART;TZID=W. Europe Standard Time:20261002T110000
+DTEND;TZID=W. Europe Standard Time:20261002T120000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:2
+LOCATION:Microsoft Teams-vergadering
+X-MICROSOFT-CDO-APPT-SEQUENCE:2
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E00800000000A3ADDA08923BDD01000000000000000010000000A2E12FBAFEFFDA48AC3C1C61DADC3799
+RECURRENCE-ID;TZID=W. Europe Standard Time:20261005T120000
+SUMMARY:Lunch (afspraken in overleg)
+DTSTART;TZID=W. Europe Standard Time:20261005T120000
+DTEND;TZID=W. Europe Standard Time:20261005T123000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n\n-----Oorspronkelijke afspraak-----\nVan: Assistenten Energietransitie <Assistenten.energietransitie@amsterdam.nl>\nVerzonden: donderdag 23 oktober 2025 11:05\nAan: Assistenten Energietransitie\; Team Energietransitie\nCC: Wubbolt\, Hedwig\; Zonneveldt\, Edgar\; Sloet\, Lukas\; Meier\, Daniel\; Koelemij\, Theun\; Vos\, Linda\; Bruinsma\, Rosanne\; Bijleveld\, Tesse\; Taanman\, Joris\; Kleijn\, Wouter\; Peer\, Justus van\; Hoogendijk\, Eline\; Geurts\, Barn\; Wallerbos\, Paul\; Oey\, Sarah\; Visser\, Nynke\; Grooten\, Jeroen\; Colenbrander\, Laura\; Springer\, Wendy\; Craats\, Christel van de\; Leijdekkers\, Jesse\; Kowsoleea\, Wayra\; Grispen\, Nina\; Giessen\, Art van der\; Eijk\, Mirrijn van\; Hament\, Pascal\; Voerman\, Ruben\; Waardenburg\, Esmée\; Lamboo\, Sam\; Verhoeven\, Maarten\; Spruijt\, Ko\; Roos\, Suzanne\; Grondelle\, Wilmar van\; Walen\, Lisa\; Bardok\, Doede\; Walen\, Tim van\; Roo\, Esmée de\; Waaijer\, Bob\; Bakker\, Joos de\; Rijn\, Ruud van\; Roest\, Menno\; Spruitenburg\, Dick\; Bos\, Vera van den\; Beek\, Bram van\; Iseli\, Bernadette\; Kartomihardjo\, Jess\; Mol\, Tara\; Vallenduuk\, Maaike\; Azar\, Natali\; Wildschut\, Joyce\; Vertelman\, Bart\; Verberne\, Noor\; Stap\, Mickey van der\nOnderwerp: Weekstart team Energietransitie\nTijd: Vindt plaats elke maandag vanaf 5-1-2026 tot 31-12-2026 van 12:30 tot 13:00 (UTC+01:00) Amsterdam\, Berlijn\, Bern\, Rome\, Stockholm\, Wenen.\nLocatie: Locatie gewijzigd naar Entrada 2e verdieping - vleugel D - grote aanlandtafel\n\nUpdate 23-01-2026: All\, de vergaderruimte werd niet als heel prettig ervaren. Vooralsnog gaan we kijken hoe het werkt als we de weekstarts op de 2e verdieping zelf gaan houden. Er is een groot beeldscherm en ik ga even kijken of we dat up and running kunnen krijgen en anders leggen we de Teams-verbinding via een laptop. Het is dus even allemaal uittesten maar hopelijk komt het allemaal goed. Groet\, Hedwig\n\nAll\, vooralsnog plannen we de weekstart door in 2026. Dit is de grootst beschikbare vergaderruimte. In de loop van de tijd komt er hopelijk iets beter beschikbaars. Groet\, Hedwig\n________________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzM2MTZjODItOTA5Ni00ZjdmLWI5OTUtYjdlZTBiZmNiNjll%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%229c02b874-6b1d-468b-9692-a935b1b2ba12%22%7d>\nVergadering-id: 331 787 093 504 3\nWachtwoordcode: uL6hi6m6\n________________________________\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=9c02b874-6b1d-468b-9692-a935b1b2ba12&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_MzM2MTZjODItOTA5Ni00ZjdmLWI5OTUtYjdlZTBiZmNiNjll@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n\n
+UID:040000008200E00074C5B7101A82E008000000008CE5C612FC43DC0100000000000000001000000058B34841A3170A4EB491E94EAE2D6C48
+RECURRENCE-ID;TZID=W. Europe Standard Time:20261005T123000
+SUMMARY:Weekstart team Energietransitie
+DTSTART;TZID=W. Europe Standard Time:20261005T123000
+DTEND;TZID=W. Europe Standard Time:20261005T130000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:15
+LOCATION:Locatie gewijzigd naar Entrada 2e verdieping - vleugel D - grote aanlandtafel
+X-MICROSOFT-CDO-APPT-SEQUENCE:15
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/367227494676120?p=65lbcSdoqOj6ujv9jW\nVergadering-id: 367 227 494 676 120\nWachtwoordcode: ym2Ts6dj\n________________________________\nHeeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODQxODRjNjctODljMy00NjdjLTg4YTktNDc1MWNjNDJhZDIz%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%227ba50af2-b2f5-4b3b-9287-1b8426c706c7%22%7d>\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=7ba50af2-b2f5-4b3b-9287-1b8426c706c7&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_ODQxODRjNjctODljMy00NjdjLTg4YTktNDc1MWNjNDJhZDIz@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n
+UID:040000008200E00074C5B7101A82E00800000000B3B021BD9B49DD01000000000000000010000000CB76FC39320EE141B3F38E1A4332B7BC
+RECURRENCE-ID;TZID=W. Europe Standard Time:20261005T160000
+SUMMARY:Bila Florence / Wayra
+DTSTART;TZID=W. Europe Standard Time:20261005T170000
+DTEND;TZID=W. Europe Standard Time:20261005T173000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:2
+LOCATION:Microsoft Teams-vergadering
+X-MICROSOFT-CDO-APPT-SEQUENCE:2
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/384723413751790?p=XlJfChSMyBYrE8GNXH\nVergadering-id: 384 723 413 751 790\nWachtwoordcode: aV9WV6hC\n________________________________\nHeeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzZhYWQxMjQtMjllNC00N2MwLThhNWItMTBhMzA3ZjliMjBh%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%223cc5acfe-b844-4b54-b4aa-4f77e7fdc16a%22%7d>\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=3cc5acfe-b844-4b54-b4aa-4f77e7fdc16a&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_YzZhYWQxMjQtMjllNC00N2MwLThhNWItMTBhMzA3ZjliMjBh@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n
+UID:040000008200E00074C5B7101A82E00800000000E2080C8D9954DD010000000000000000100000003C57CA4EE30019439B489810C491226E
+SUMMARY:Afstemmen introductiemiddag EDO
+DTSTART;TZID=W. Europe Standard Time:20261006T100000
+DTEND;TZID=W. Europe Standard Time:20261006T103000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:1
+LOCATION:Entrada 600 1B.4 Vijzelgracht 7P AV
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Nieuwe overlegreeks op Entrada/via Teams en elke week op de maandag 10:30.\nHier de link naar een sheet waar iedereen zelf elke week agendapunten kan zetten.\n2026 Overleg sheet voor Kernteam Energiegemeenschappen.docx<https://hoofdstad.sharepoint.com/:w:/r/sites/SW-RE-RD-Energietransitie/Gedeelde%20documenten/PROGRAMMA%20ENERGIEGEMEENSCHAPPEN/Programma%202026/02%20Overleggen/04.%20Kernteam%20Energiegemeenschappen/2026%20Overleg%20sheet%20voor%20Kernteam%20Energiegemeenschappen.docx?d=w1e0c3483da0c4b3da0e6956a4cf85166&csf=1&web=1&e=NpaDkG>\nGr.\, Judith\n______________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjM3NTE0NDYtZTNiMC00YWJiLWJjMDYtM2Q2MTNjMjYwNGQy%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%229c02b874-6b1d-468b-9692-a935b1b2ba12%22%7d>\nVergadering-id: 379 507 254 188 71\nWachtwoordcode: PL7Vi7o5\n________________________________\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=9c02b874-6b1d-468b-9692-a935b1b2ba12&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_MjM3NTE0NDYtZTNiMC00YWJiLWJjMDYtM2Q2MTNjMjYwNGQy@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n\n
+UID:040000008200E00074C5B7101A82E0080000000060F9351B0469DC01000000000000000010000000EB9F19AEFE3DAF4EA3BDD0D0F01CF14E
+RECURRENCE-ID;TZID=W. Europe Standard Time:20261005T101500
+SUMMARY:Wekelijks Kernteam Energiegemeenschappen (Hybride)
+DTSTART;TZID=W. Europe Standard Time:20261006T103000
+DTEND;TZID=W. Europe Standard Time:20261006T120000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:79
+LOCATION:Microsoft Teams-vergadering\; Entrada 600 3C.4 van der Madeweg 6P HYB
+X-MICROSOFT-CDO-APPT-SEQUENCE:79
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Nieuwe overlegreeks op Entrada/via Teams en elke week op de maandag 10:30.\nHier de link naar een sheet waar iedereen zelf elke week agendapunten kan zetten.\n2026 Overleg sheet voor Kernteam Energiegemeenschappen.docx<https://hoofdstad.sharepoint.com/:w:/r/sites/SW-RE-RD-Energietransitie/Gedeelde%20documenten/PROGRAMMA%20ENERGIEGEMEENSCHAPPEN/Programma%202026/02%20Overleggen/04.%20Kernteam%20Energiegemeenschappen/2026%20Overleg%20sheet%20voor%20Kernteam%20Energiegemeenschappen.docx?d=w1e0c3483da0c4b3da0e6956a4cf85166&csf=1&web=1&e=NpaDkG>\nGr.\, Judith\n______________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjM3NTE0NDYtZTNiMC00YWJiLWJjMDYtM2Q2MTNjMjYwNGQy%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%229c02b874-6b1d-468b-9692-a935b1b2ba12%22%7d>\nVergadering-id: 379 507 254 188 71\nWachtwoordcode: PL7Vi7o5\n________________________________\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=9c02b874-6b1d-468b-9692-a935b1b2ba12&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_MjM3NTE0NDYtZTNiMC00YWJiLWJjMDYtM2Q2MTNjMjYwNGQy@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n\n
+UID:040000008200E00074C5B7101A82E0080000000060F9351B0469DC01000000000000000010000000EB9F19AEFE3DAF4EA3BDD0D0F01CF14E
+RECURRENCE-ID;TZID=W. Europe Standard Time:20261012T101500
+SUMMARY:Wekelijks Kernteam Energiegemeenschappen (Hybride)
+DTSTART;TZID=W. Europe Standard Time:20261012T100000
+DTEND;TZID=W. Europe Standard Time:20261012T110000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:61
+LOCATION:Microsoft Teams-vergadering\; Entrada 600 3C Duivendrecht 10P HYB
+X-MICROSOFT-CDO-APPT-SEQUENCE:61
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/367227494676120?p=65lbcSdoqOj6ujv9jW\nVergadering-id: 367 227 494 676 120\nWachtwoordcode: ym2Ts6dj\n________________________________\nHeeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODQxODRjNjctODljMy00NjdjLTg4YTktNDc1MWNjNDJhZDIz%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%227ba50af2-b2f5-4b3b-9287-1b8426c706c7%22%7d>\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=7ba50af2-b2f5-4b3b-9287-1b8426c706c7&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_ODQxODRjNjctODljMy00NjdjLTg4YTktNDc1MWNjNDJhZDIz@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n
+UID:040000008200E00074C5B7101A82E00800000000B3B021BD9B49DD01000000000000000010000000CB76FC39320EE141B3F38E1A4332B7BC
+RECURRENCE-ID;TZID=W. Europe Standard Time:20261012T160000
+SUMMARY:Geannuleerd: Bila Florence / Wayra
+DTSTART;TZID=W. Europe Standard Time:20261012T160000
+DTEND;TZID=W. Europe Standard Time:20261012T163000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:3
+LOCATION:Microsoft Teams-vergadering
+X-MICROSOFT-CDO-APPT-SEQUENCE:3
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n\n-----Oorspronkelijke afspraak-----\nVan: Jong\, Judith de Namens Assistenten Energietransitie\nVerzonden: woensdag 3 december 2025 13:40\nAan: Assistenten Energietransitie\; Bos\, Vera van den\; Jong\, Judith de\; Kowsoleea\, Wayra\; Oome\, Maartje\; Slimmens\, Tabita\; Bruinsma\, Rosanne\; Colenbrander\, Laura\; Grispen\, Nina\; Oosterlaken\, Pim\; Springer\, Wendy\; Zonneveldt\, Edgar\; Wildschut\, Joyce\nCC: Willemsen\, Sander\; Damen\, Nikki\; Jansen\, Margriet\; Nagel\, Gertjan\nOnderwerp: Programma overleg Energiegemeenschappen (4wekelijks)\nTijd: Vindt plaats elke 4 we(e)k(en) op dinsdag vanaf 3-3-2026 tot 31-12-2026 van 09:00 tot 10:30 (UTC+01:00) Amsterdam\, Berlijn\, Bern\, Rome\, Stockholm\, Wenen.\nLocatie: Microsoft Teams-vergadering\; Entrada 600 3C Duivendrecht 10P HYB\n\n31-03-2026: En doorgepland tot 31-12-2026. Groet\, Hedwig\n16-03-2026: Op verzoek van Laura omgezet naar eens per 4 weken ipv 2wekelijks). Groet\, Hedwig\n\n[Pictogram Map] 02 Overleggen<https://hoofdstad.sharepoint.com/:f:/r/sites/SW-RE-RD-Energietransitie/Gedeelde%20documenten/PROGRAMMA%20ENERGIEGEMEENSCHAPPEN/Programma%202026/02%20Overleggen?csf=1&web=1&e=3JL5Uy> Hier de link naar de agenda’s van de Programma overleggen.\n\n3/12 Een nieuwe serie op Entrada\, 2-wekelijks\, op de di ochtend. Gr.\, Judith\n________________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODgwOWQ2MzgtYjU3NS00MjU1LThhMTAtYTQ5ZDI0NGQxYTJm%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%229c02b874-6b1d-468b-9692-a935b1b2ba12%22%7d>\nVergadering-id: 328 364 396 935 61\nWachtwoordcode: qo3v8kD7\n________________________________\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=9c02b874-6b1d-468b-9692-a935b1b2ba12&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_ODgwOWQ2MzgtYjU3NS00MjU1LThhMTAtYTQ5ZDI0NGQxYTJm@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n\n
+RRULE:FREQ=WEEKLY;UNTIL=20261208T080000Z;INTERVAL=4;BYDAY=TU;WKST=SU
+UID:040000008200E00074C5B7101A82E0080000000030842AB25964DC01000000000000000010000000D335376D3B0D6A4DA5B40A8496438E31
+SUMMARY:Programma overleg Energiegemeenschappen (4wekelijks)
+DTSTART;TZID=W. Europe Standard Time:20261013T090000
+DTEND;TZID=W. Europe Standard Time:20261013T103000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:32
+LOCATION:Microsoft Teams-vergadering\; Entrada 600 3C Duivendrecht 10P HYB
+X-MICROSOFT-CDO-APPT-SEQUENCE:32
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/36103677630603?p=Tdh4KhtORA1T0XGGEk\nVergadering-id: 361 036 776 306 03\nWachtwoordcode: 7yP785Jn\n________________________________\nHeeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDBmNDE5ZWUtNWZjMi00NzY4LWFmZjktZTI4NzZjZTAwNzVk%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%227ba50af2-b2f5-4b3b-9287-1b8426c706c7%22%7d>\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=7ba50af2-b2f5-4b3b-9287-1b8426c706c7&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_MDBmNDE5ZWUtNWZjMi00NzY4LWFmZjktZTI4NzZjZTAwNzVk@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n
+UID:040000008200E00074C5B7101A82E008000000006B231EFC9B49DD01000000000000000010000000FF5E031EBC6D2A4F8B7C15D9290FBDC8
+RECURRENCE-ID;TZID=W. Europe Standard Time:20261014T140000
+SUMMARY:Geannuleerd: Bila Florence / Wayra
+DTSTART;TZID=W. Europe Standard Time:20261014T140000
+DTEND;TZID=W. Europe Standard Time:20261014T143000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:2
+LOCATION:Microsoft Teams-vergadering
+X-MICROSOFT-CDO-APPT-SEQUENCE:2
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/3254459868076716?p=guCGCR4C43Lrx85VMc\nVergadering-id: 325 445 986 807 671 6\nWachtwoordcode: UT958T5t\n________________________________\nHeeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmMyZjk3ODgtOTIyOC00YTI5LWI2ZDEtOWU4NzQwZGMxNDdk%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%22c097f7e3-d21e-4120-917a-9f34de70e710%22%7d>\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=c097f7e3-d21e-4120-917a-9f34de70e710&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_ZmMyZjk3ODgtOTIyOC00YTI5LWI2ZDEtOWU4NzQwZGMxNDdk@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n
+UID:040000008200E00074C5B7101A82E00800000000F91FCD6A8555DD01000000000000000010000000F6869900729652459AA8370B4EA89F53
+SUMMARY:Padel?
+DTSTART;TZID=W. Europe Standard Time:20261014T170000
+DTEND;TZID=W. Europe Standard Time:20261014T180000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:1
+LOCATION:Kauwgomballenfabriek (Paul van Vlissingenstraat 10\, 1096 BK Amsterdam Noord-Holland\, Nederland)
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/326047674312875?p=3WyxadjfXTyMxSmcmN\nVergadering-id: 326 047 674 312 875\nWachtwoordcode: 4eY3Ru9F\n________________________________\nHeeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjkyMDg4M2ItNmM5ZS00NjAyLThiNzEtZWUyNGQyYjFmY2Q5%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%227ba50af2-b2f5-4b3b-9287-1b8426c706c7%22%7d>\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=7ba50af2-b2f5-4b3b-9287-1b8426c706c7&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_NjkyMDg4M2ItNmM5ZS00NjAyLThiNzEtZWUyNGQyYjFmY2Q5@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n
+UID:040000008200E00074C5B7101A82E0080000000089640DB8583FDD010000000000000000100000003DCDD657AE09EB43AC0FC2BB3AF18807
+SUMMARY:Geannuleerd: Kwartaalrapportage Q3
+DTSTART;TZID=W. Europe Standard Time:20261015T100000
+DTEND;TZID=W. Europe Standard Time:20261015T110000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:2
+LOCATION:Entrada 600 1A.1 Rokin 6P
+X-MICROSOFT-CDO-APPT-SEQUENCE:2
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E008000000002A56026BAF3EDD010000000000000000100000008C1CFE8EDBDBC34C84A46B9B9A6D940E
+RECURRENCE-ID;TZID=W. Europe Standard Time:20261016T073000
+SUMMARY:Vrij
+DTSTART;TZID=W. Europe Standard Time:20261015T130000
+DTEND;TZID=W. Europe Standard Time:20261015T170000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:OOF
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TW 08/10 verlengd.\n\nNieuwe overlegreeks op Entrada/via Teams en elke week op de maandag 10:30.\nHier de link naar een sheet waar iedereen zelf elke week agendapunten kan zetten.\n2026 Overleg sheet voor Kernteam Energiegemeenschappen.docx<https://hoofdstad.sharepoint.com/:w:/r/sites/SW-RE-RD-Energietransitie/Gedeelde%20documenten/PROGRAMMA%20ENERGIEGEMEENSCHAPPEN/Programma%202026/02%20Overleggen/04.%20Kernteam%20Energiegemeenschappen/2026%20Overleg%20sheet%20voor%20Kernteam%20Energiegemeenschappen.docx?d=w1e0c3483da0c4b3da0e6956a4cf85166&csf=1&web=1&e=NpaDkG>\nGr.\, Judith\n______________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjM3NTE0NDYtZTNiMC00YWJiLWJjMDYtM2Q2MTNjMjYwNGQy%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%229c02b874-6b1d-468b-9692-a935b1b2ba12%22%7d>\nVergadering-id: 379 507 254 188 71\nWachtwoordcode: PL7Vi7o5\n________________________________\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=9c02b874-6b1d-468b-9692-a935b1b2ba12&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_MjM3NTE0NDYtZTNiMC00YWJiLWJjMDYtM2Q2MTNjMjYwNGQy@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n\n
+UID:040000008200E00074C5B7101A82E0080000000060F9351B0469DC01000000000000000010000000EB9F19AEFE3DAF4EA3BDD0D0F01CF14E
+RECURRENCE-ID;TZID=W. Europe Standard Time:20261019T101500
+SUMMARY:Wekelijks Kernteam Energiegemeenschappen (Hybride)
+DTSTART;TZID=W. Europe Standard Time:20261019T100000
+DTEND;TZID=W. Europe Standard Time:20261019T113000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:80
+LOCATION:Microsoft Teams-vergadering\; Entrada 600 0A.5 Lijn 52 8P HYB
+X-MICROSOFT-CDO-APPT-SEQUENCE:80
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:31-03-2026: En doorgepland tot 31-12-2026. Groet\, Hedwig\n16-03-2026: Op verzoek van Laura omgezet naar eens per 4 weken ipv 2wekelijks). Groet\, Hedwig\n\n[Pictogram Map] 02 Overleggen<https://hoofdstad.sharepoint.com/:f:/r/sites/SW-RE-RD-Energietransitie/Gedeelde%20documenten/PROGRAMMA%20ENERGIEGEMEENSCHAPPEN/Programma%202026/02%20Overleggen?csf=1&web=1&e=3JL5Uy> Hier de link naar de agenda’s van de Programma overleggen.\n\n3/12 Een nieuwe serie op Entrada\, 2-wekelijks\, op de di ochtend. Gr.\, Judith\n________________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODgwOWQ2MzgtYjU3NS00MjU1LThhMTAtYTQ5ZDI0NGQxYTJm%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%229c02b874-6b1d-468b-9692-a935b1b2ba12%22%7d>\nVergadering-id: 328 364 396 935 61\nWachtwoordcode: qo3v8kD7\n________________________________\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=9c02b874-6b1d-468b-9692-a935b1b2ba12&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_ODgwOWQ2MzgtYjU3NS00MjU1LThhMTAtYTQ5ZDI0NGQxYTJm@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n\n
+UID:040000008200E00074C5B7101A82E0080000000030842AB25964DC01000000000000000010000000D335376D3B0D6A4DA5B40A8496438E31
+RECURRENCE-ID;TZID=W. Europe Standard Time:20261013T090000
+SUMMARY:Programma overleg Energiegemeenschappen (4wekelijks)
+DTSTART;TZID=W. Europe Standard Time:20261020T090000
+DTEND;TZID=W. Europe Standard Time:20261020T103000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:37
+LOCATION:Microsoft Teams-vergadering\; Entrada 600 0D.2 Noord/Zuidlijn 16P HYB BAR
+X-MICROSOFT-CDO-APPT-SEQUENCE:37
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:  *\nDoel: Inhoudelijk bijpraten\, sparren\, intervisie\, besluitvorming rondom APEC/EDO/OE.\n  *\nVoorzitter: NTB\n  *\nTakenbord: Planner - Programma Energiegemeenschappen<https://planner.cloud.microsoft/webui/v1/plan/GryovG1-h0GJI79c-_ROwpcAHnjx?tid=72fca1b1-2c2e-4376-a445-294d80196804>\n  *\nNotulen: NTB\n\n________________________________________________________________________________\nMicrosoft Teams meeting\nJoin: https://teams.microsoft.com/meet/368383271381334?p=RVv7AtNb95shEWAOwI\nMeeting ID: 368 383 271 381 334\nPasscode: BV7Hw6YD\n________________________________\nNeed help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US> | System reference<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDQyNTk4MDEtODQxYS00YzZiLTk0MGMtMDZlZmViZmU1MWNl%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%229c02b874-6b1d-468b-9692-a935b1b2ba12%22%7d>\nFor organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=9c02b874-6b1d-468b-9692-a935b1b2ba12&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_MDQyNTk4MDEtODQxYS00YzZiLTk0MGMtMDZlZmViZmU1MWNl@thread.v2&messageId=0&language=en-US>\n________________________________________________________________________________\n
+UID:040000008200E00074C5B7101A82E00800000000CF57E951184FDD010000000000000000100000001C7DD77052CA434BBA60BEB80A4E34E5
+RECURRENCE-ID;TZID=W. Europe Standard Time:20261022T100000
+SUMMARY:Programma Energiegemeenschappen | Beleidsoverleg accounthouders
+DTSTART;TZID=W. Europe Standard Time:20261022T100000
+DTEND;TZID=W. Europe Standard Time:20261022T110000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:1
+LOCATION:Entrada 600 3C.4 van der Madeweg 6P HYB
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:  *\nDoel: Inhoudelijk bijpraten\, sparren\, intervisie\, besluitvorming rondom APEC/EDO/OE.\n  *\nVoorzitter: NTB\n  *\nTakenbord: Planner - Programma Energiegemeenschappen<https://planner.cloud.microsoft/webui/v1/plan/GryovG1-h0GJI79c-_ROwpcAHnjx?tid=72fca1b1-2c2e-4376-a445-294d80196804>\n  *\nNotulen: NTB\n\n________________________________________________________________________________\nMicrosoft Teams meeting\nJoin: https://teams.microsoft.com/meet/368383271381334?p=RVv7AtNb95shEWAOwI\nMeeting ID: 368 383 271 381 334\nPasscode: BV7Hw6YD\n________________________________\nNeed help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US> | System reference<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDQyNTk4MDEtODQxYS00YzZiLTk0MGMtMDZlZmViZmU1MWNl%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%229c02b874-6b1d-468b-9692-a935b1b2ba12%22%7d>\nFor organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=9c02b874-6b1d-468b-9692-a935b1b2ba12&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_MDQyNTk4MDEtODQxYS00YzZiLTk0MGMtMDZlZmViZmU1MWNl@thread.v2&messageId=0&language=en-US>\n________________________________________________________________________________\n
+RRULE:FREQ=WEEKLY;UNTIL=20270408T080000Z;INTERVAL=2;BYDAY=TH;WKST=MO
+UID:040000008200E00074C5B7101A82E00800000000CF57E951184FDD010000000000000000100000001C7DD77052CA434BBA60BEB80A4E34E5
+SUMMARY:Programma Energiegemeenschappen | Beleidsoverleg accounthouders
+DTSTART;TZID=W. Europe Standard Time:20261022T100000
+DTEND;TZID=W. Europe Standard Time:20261022T110000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:1
+LOCATION:Entrada 600 3C.4 van der Madeweg 6P HYB
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:30-09-2026: Abdel toegevoegd. Groet\, Hedwig\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/326756805999171?p=bBBVTubpCwT2QVyTlx\nVergadering-id: 326 756 805 999 171\nWachtwoordcode: XR9ZH2hq\n________________________________\nHeeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTU0MTVjYzktN2IxYi00ZWM3LWJkMTMtZGNkMzZmNmIyMzI1%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%220b610d34-0b22-4ab0-89d4-2420e9549acc%22%7d>\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=0b610d34-0b22-4ab0-89d4-2420e9549acc&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_NTU0MTVjYzktN2IxYi00ZWM3LWJkMTMtZGNkMzZmNmIyMzI1@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n\n
+RRULE:FREQ=MONTHLY;UNTIL=20261224T100000Z;INTERVAL=1;BYDAY=4TH
+UID:040000008200E00074C5B7101A82E00800000000F001E7AFA5F2DC01000000000000000010000000C973521E0D12D14388D78DE24578A0F0
+SUMMARY:Maandelijks teamcontrolgesprek Energiegemeenschappen
+DTSTART;TZID=W. Europe Standard Time:20261022T110000
+DTEND;TZID=W. Europe Standard Time:20261022T120000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:12
+LOCATION:Entrada 600 0D.1 Lijn 53 6P AV
+X-MICROSOFT-CDO-APPT-SEQUENCE:12
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hallo allemaal\,\n\nGraag deze middag alvast vrijhouden voor een introductiemiddag tussen programmateam EG en de nieuwe EDO-medewerkers.\n\nHet exacte programma\, tijdstip en locatie volgen nog (ook in afstemming met de EDO-medewerkers).\n\nAlvast dank!\n\nGroetjes\,\n\nJoyce & Laura\n\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/367163236212781?p=ZYIzKArV6JkjU9drxt\nVergadering-id: 367 163 236 212 781\nWachtwoordcode: jn2di6iQ\n________________________________\nHeeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzkzMTg1YzctMjgyNS00ZDU3LWI5MjAtOWYzYWVlYjZkYWJj%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%223cc5acfe-b844-4b54-b4aa-4f77e7fdc16a%22%7d>\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=3cc5acfe-b844-4b54-b4aa-4f77e7fdc16a&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_YzkzMTg1YzctMjgyNS00ZDU3LWI5MjAtOWYzYWVlYjZkYWJj@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n
+UID:040000008200E00074C5B7101A82E008000000008D18B47C3840DD01000000000000000010000000C742069543EC96439447D7C93BE11633
+SUMMARY:Placeholder Introductie middag EDO-medewerkers & Gemeente Amsterdam
+DTSTART;TZID=W. Europe Standard Time:20261022T120000
+DTEND;TZID=W. Europe Standard Time:20261022T180000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:1
+LOCATION:N.t.b.
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E00800000000EB532D67823FDD01000000000000000010000000613D215C1DECA443BD46C0948036B769
+SUMMARY:Vakantie
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261102
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:OOF
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTkyNDFmNjItNTRlNS00MTUzLThkZGEtYmE5NWNlMjM4NTYy%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%229c02b874-6b1d-468b-9692-a935b1b2ba12%22%7d>\nVergadering-id: 330 349 764 272 07\nWachtwoordcode: 3CA7sW9R\n________________________________\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=9c02b874-6b1d-468b-9692-a935b1b2ba12&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_OTkyNDFmNjItNTRlNS00MTUzLThkZGEtYmE5NWNlMjM4NTYy@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n\n
+RRULE:FREQ=MONTHLY;UNTIL=20261231T143000Z;INTERVAL=1;BYDAY=-1TH
+UID:040000008200E00074C5B7101A82E00800000000EB3BF5050065DC01000000000000000010000000A529E5791131F54DBD3774FF7038E0F0
+SUMMARY:Assistentenoverleg team ET
+DTSTART;TZID=W. Europe Standard Time:20261029T153000
+DTEND;TZID=W. Europe Standard Time:20261029T163000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:20
+LOCATION:of via Teams - voor link zie beschrijving\; Entrada 600 0D.6 Lijn 50 8P HYB
+X-MICROSOFT-CDO-APPT-SEQUENCE:20
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Nieuwe overlegreeks op Entrada/via Teams en elke week op de maandag 10:30.\nHier de link naar een sheet waar iedereen zelf elke week agendapunten kan zetten.\n2026 Overleg sheet voor Kernteam Energiegemeenschappen.docx<https://hoofdstad.sharepoint.com/:w:/r/sites/SW-RE-RD-Energietransitie/Gedeelde%20documenten/PROGRAMMA%20ENERGIEGEMEENSCHAPPEN/Programma%202026/02%20Overleggen/04.%20Kernteam%20Energiegemeenschappen/2026%20Overleg%20sheet%20voor%20Kernteam%20Energiegemeenschappen.docx?d=w1e0c3483da0c4b3da0e6956a4cf85166&csf=1&web=1&e=NpaDkG>\nGr.\, Judith\n______________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjM3NTE0NDYtZTNiMC00YWJiLWJjMDYtM2Q2MTNjMjYwNGQy%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%229c02b874-6b1d-468b-9692-a935b1b2ba12%22%7d>\nVergadering-id: 379 507 254 188 71\nWachtwoordcode: PL7Vi7o5\n________________________________\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=9c02b874-6b1d-468b-9692-a935b1b2ba12&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_MjM3NTE0NDYtZTNiMC00YWJiLWJjMDYtM2Q2MTNjMjYwNGQy@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n\n
+UID:040000008200E00074C5B7101A82E0080000000060F9351B0469DC01000000000000000010000000EB9F19AEFE3DAF4EA3BDD0D0F01CF14E
+RECURRENCE-ID;TZID=W. Europe Standard Time:20261102T101500
+SUMMARY:Wekelijks Kernteam Energiegemeenschappen (Hybride)
+DTSTART;TZID=W. Europe Standard Time:20261102T100000
+DTEND;TZID=W. Europe Standard Time:20261102T110000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:64
+LOCATION:Microsoft Teams-vergadering\; Entrada 600 3C Duivendrecht 10P HYB
+X-MICROSOFT-CDO-APPT-SEQUENCE:64
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E00800000000AAE23E181245DD01000000000000000010000000156BE73C67AC274F8C63AF04B513B177
+SUMMARY:Training Verdieping dynamiek binnen gemeente
+DTSTART;TZID=W. Europe Standard Time:20261104T073000
+DTEND;TZID=W. Europe Standard Time:20261104T170000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:  *\nDoel: Inhoudelijk bijpraten\, sparren\, intervisie\, besluitvorming rondom APEC/EDO/OE.\n  *\nVoorzitter: NTB\n  *\nTakenbord: Planner - Programma Energiegemeenschappen<https://planner.cloud.microsoft/webui/v1/plan/GryovG1-h0GJI79c-_ROwpcAHnjx?tid=72fca1b1-2c2e-4376-a445-294d80196804>\n  *\nNotulen: NTB\n\n________________________________________________________________________________\nMicrosoft Teams meeting\nJoin: https://teams.microsoft.com/meet/368383271381334?p=RVv7AtNb95shEWAOwI\nMeeting ID: 368 383 271 381 334\nPasscode: BV7Hw6YD\n________________________________\nNeed help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US> | System reference<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDQyNTk4MDEtODQxYS00YzZiLTk0MGMtMDZlZmViZmU1MWNl%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%229c02b874-6b1d-468b-9692-a935b1b2ba12%22%7d>\nFor organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=9c02b874-6b1d-468b-9692-a935b1b2ba12&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_MDQyNTk4MDEtODQxYS00YzZiLTk0MGMtMDZlZmViZmU1MWNl@thread.v2&messageId=0&language=en-US>\n________________________________________________________________________________\n
+UID:040000008200E00074C5B7101A82E00800000000CF57E951184FDD010000000000000000100000001C7DD77052CA434BBA60BEB80A4E34E5
+RECURRENCE-ID;TZID=W. Europe Standard Time:20261105T100000
+SUMMARY:Programma Energiegemeenschappen | Beleidsoverleg accounthouders
+DTSTART;TZID=W. Europe Standard Time:20261105T100000
+DTEND;TZID=W. Europe Standard Time:20261105T110000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:1
+LOCATION:Entrada 600 3C.4 van der Madeweg 6P HYB
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teamslink: Maandstart Energie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDU3YjFmODktYTUwOS00NmFhLWI5NzMtOGE1YzE3YzVkOWU2%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%220ea2f948-2967-4601-be65-70910f699f33%22%7d>\n\nBeste collega’s\,\nWe starten ook dit jaar weer elke maand met de Maandstart Energie op de eerste donderdag van de maand.\n\nMaandstart Energie is hét moment om op de hoogte te blijven van de laatste actualiteiten\, kennis te maken met nieuwe collega’s en highlights uit projecten te horen. Informatie die per definitie relevant is voor je werk.\nInclusief lunch\, hybride is mogelijk maar terugkijken niet. Zorg dus dat je erbij bent.\nWil je zelf een onderwerp delen tijdens de maandstart? Dat kan. Bij de maandstart heb je een breed publiek maar minder tijd.\nJe krijgt dan max. 5 minuten en mag één slide aanleveren voor je verhaal. Mogelijk kun je doorverwijzen naar een plek of moment waar meer informatie te halen is. Aanmelden kan via dit mailadres.\n\nWil je er fysiek bij zijn\, klik dan op ‘Accepteren/Het antwoord nu verzenden’.\nWanneer je deelneemt via Teams\, klik dan op ‘Voorlopig accepteren/Het antwoord nu verzenden’.\nZo weten we hoeveel lunch we moeten serveren en voorkomen we verspilling.\n\nDe lunch wordt na afloop om 12u geserveerd.\n\nGroeten namens het kennisdeelteam\,\nHedwig en Jolanda\n
+UID:040000008200E00074C5B7101A82E0080000000050889810806BDC01000000000000000010000000A6F8FCA7E9A4D043AAB875367E0E60F5
+RECURRENCE-ID;TZID=W. Europe Standard Time:20261105T110000
+SUMMARY:Maandstart Energie - met lunch
+DTSTART;TZID=W. Europe Standard Time:20261105T110000
+DTEND;TZID=W. Europe Standard Time:20261105T123000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:175
+LOCATION:Entrada 600: bedrijfsrestaurant of via MS Teams - zie link bovenin tekstvak
+X-MICROSOFT-CDO-APPT-SEQUENCE:175
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Nieuwe overlegreeks op Entrada/via Teams en elke week op de maandag 10:30.\nHier de link naar een sheet waar iedereen zelf elke week agendapunten kan zetten.\n2026 Overleg sheet voor Kernteam Energiegemeenschappen.docx<https://hoofdstad.sharepoint.com/:w:/r/sites/SW-RE-RD-Energietransitie/Gedeelde%20documenten/PROGRAMMA%20ENERGIEGEMEENSCHAPPEN/Programma%202026/02%20Overleggen/04.%20Kernteam%20Energiegemeenschappen/2026%20Overleg%20sheet%20voor%20Kernteam%20Energiegemeenschappen.docx?d=w1e0c3483da0c4b3da0e6956a4cf85166&csf=1&web=1&e=NpaDkG>\nGr.\, Judith\n______________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjM3NTE0NDYtZTNiMC00YWJiLWJjMDYtM2Q2MTNjMjYwNGQy%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%229c02b874-6b1d-468b-9692-a935b1b2ba12%22%7d>\nVergadering-id: 379 507 254 188 71\nWachtwoordcode: PL7Vi7o5\n________________________________\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=9c02b874-6b1d-468b-9692-a935b1b2ba12&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_MjM3NTE0NDYtZTNiMC00YWJiLWJjMDYtM2Q2MTNjMjYwNGQy@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n\n
+UID:040000008200E00074C5B7101A82E0080000000060F9351B0469DC01000000000000000010000000EB9F19AEFE3DAF4EA3BDD0D0F01CF14E
+RECURRENCE-ID;TZID=W. Europe Standard Time:20261109T101500
+SUMMARY:Wekelijks Kernteam Energiegemeenschappen (Hybride)
+DTSTART;TZID=W. Europe Standard Time:20261109T100000
+DTEND;TZID=W. Europe Standard Time:20261109T110000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:65
+LOCATION:Microsoft Teams-vergadering\; Entrada 600 3C Duivendrecht 10P HYB
+X-MICROSOFT-CDO-APPT-SEQUENCE:65
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Nieuwe overlegreeks op Entrada/via Teams en elke week op de maandag 10:30.\nHier de link naar een sheet waar iedereen zelf elke week agendapunten kan zetten.\n2026 Overleg sheet voor Kernteam Energiegemeenschappen.docx<https://hoofdstad.sharepoint.com/:w:/r/sites/SW-RE-RD-Energietransitie/Gedeelde%20documenten/PROGRAMMA%20ENERGIEGEMEENSCHAPPEN/Programma%202026/02%20Overleggen/04.%20Kernteam%20Energiegemeenschappen/2026%20Overleg%20sheet%20voor%20Kernteam%20Energiegemeenschappen.docx?d=w1e0c3483da0c4b3da0e6956a4cf85166&csf=1&web=1&e=NpaDkG>\nGr.\, Judith\n______________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjM3NTE0NDYtZTNiMC00YWJiLWJjMDYtM2Q2MTNjMjYwNGQy%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%229c02b874-6b1d-468b-9692-a935b1b2ba12%22%7d>\nVergadering-id: 379 507 254 188 71\nWachtwoordcode: PL7Vi7o5\n________________________________\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=9c02b874-6b1d-468b-9692-a935b1b2ba12&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_MjM3NTE0NDYtZTNiMC00YWJiLWJjMDYtM2Q2MTNjMjYwNGQy@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n\n
+UID:040000008200E00074C5B7101A82E0080000000060F9351B0469DC01000000000000000010000000EB9F19AEFE3DAF4EA3BDD0D0F01CF14E
+RECURRENCE-ID;TZID=W. Europe Standard Time:20261116T101500
+SUMMARY:Wekelijks Kernteam Energiegemeenschappen (Hybride)
+DTSTART;TZID=W. Europe Standard Time:20261116T100000
+DTEND;TZID=W. Europe Standard Time:20261116T110000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:66
+LOCATION:Microsoft Teams-vergadering\; Entrada 600 3C Duivendrecht 10P HYB
+X-MICROSOFT-CDO-APPT-SEQUENCE:66
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:  *\nDoel: Inhoudelijk bijpraten\, sparren\, intervisie\, besluitvorming rondom APEC/EDO/OE.\n  *\nVoorzitter: NTB\n  *\nTakenbord: Planner - Programma Energiegemeenschappen<https://planner.cloud.microsoft/webui/v1/plan/GryovG1-h0GJI79c-_ROwpcAHnjx?tid=72fca1b1-2c2e-4376-a445-294d80196804>\n  *\nNotulen: NTB\n\n________________________________________________________________________________\nMicrosoft Teams meeting\nJoin: https://teams.microsoft.com/meet/368383271381334?p=RVv7AtNb95shEWAOwI\nMeeting ID: 368 383 271 381 334\nPasscode: BV7Hw6YD\n________________________________\nNeed help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US> | System reference<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDQyNTk4MDEtODQxYS00YzZiLTk0MGMtMDZlZmViZmU1MWNl%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%229c02b874-6b1d-468b-9692-a935b1b2ba12%22%7d>\nFor organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=9c02b874-6b1d-468b-9692-a935b1b2ba12&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_MDQyNTk4MDEtODQxYS00YzZiLTk0MGMtMDZlZmViZmU1MWNl@thread.v2&messageId=0&language=en-US>\n________________________________________________________________________________\n
+UID:040000008200E00074C5B7101A82E00800000000CF57E951184FDD010000000000000000100000001C7DD77052CA434BBA60BEB80A4E34E5
+RECURRENCE-ID;TZID=W. Europe Standard Time:20261119T100000
+SUMMARY:Programma Energiegemeenschappen | Beleidsoverleg accounthouders
+DTSTART;TZID=W. Europe Standard Time:20261119T100000
+DTEND;TZID=W. Europe Standard Time:20261119T110000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:1
+LOCATION:Entrada 600 3C.4 van der Madeweg 6P HYB
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Nieuwe overlegreeks op Entrada/via Teams en elke week op de maandag 10:30.\nHier de link naar een sheet waar iedereen zelf elke week agendapunten kan zetten.\n2026 Overleg sheet voor Kernteam Energiegemeenschappen.docx<https://hoofdstad.sharepoint.com/:w:/r/sites/SW-RE-RD-Energietransitie/Gedeelde%20documenten/PROGRAMMA%20ENERGIEGEMEENSCHAPPEN/Programma%202026/02%20Overleggen/04.%20Kernteam%20Energiegemeenschappen/2026%20Overleg%20sheet%20voor%20Kernteam%20Energiegemeenschappen.docx?d=w1e0c3483da0c4b3da0e6956a4cf85166&csf=1&web=1&e=NpaDkG>\nGr.\, Judith\n______________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjM3NTE0NDYtZTNiMC00YWJiLWJjMDYtM2Q2MTNjMjYwNGQy%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%229c02b874-6b1d-468b-9692-a935b1b2ba12%22%7d>\nVergadering-id: 379 507 254 188 71\nWachtwoordcode: PL7Vi7o5\n________________________________\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=9c02b874-6b1d-468b-9692-a935b1b2ba12&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_MjM3NTE0NDYtZTNiMC00YWJiLWJjMDYtM2Q2MTNjMjYwNGQy@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n\n
+UID:040000008200E00074C5B7101A82E0080000000060F9351B0469DC01000000000000000010000000EB9F19AEFE3DAF4EA3BDD0D0F01CF14E
+RECURRENCE-ID;TZID=W. Europe Standard Time:20261123T101500
+SUMMARY:Wekelijks Kernteam Energiegemeenschappen (Hybride)
+DTSTART;TZID=W. Europe Standard Time:20261123T100000
+DTEND;TZID=W. Europe Standard Time:20261123T110000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:67
+LOCATION:Microsoft Teams-vergadering\; Entrada 600 3C Duivendrecht 10P HYB
+X-MICROSOFT-CDO-APPT-SEQUENCE:67
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Zoals vastgesteld in het UIE I&D-actieplan 2026 krijgen alle UIE-teams in 2026 een eigen I&D-sessie. Jullie team krijgt de sessie Mijn Gebruiksaanwijzing begeleid door Marjolein Snieder van Core Crafters (co-uitvoerder inclusiegesprekken UIE in 2024).\n\nBENUT HET POTENTIEEL VAN JE HELE TEAM: In de meeste teams weten mensen wel wát een collega doet\, maar niet hóe diegene het beste werkt. Wat geeft iemand energie? Hoe reageert diegene onder druk? Zonder die kennis vullen we de gaten met aannames en juist daar ontstaat wrijving en onbenut talent. Tijdens de inclusiegesprekken gaven neurodivergente collega's en introverte collega's aan dat hun kwaliteiten niet altijd herkend of benut werden\, terwijl juist die verschillen het team sterker maken. Een persoonlijke gebruiksaanwijzing maakt al die onuitgesproken informatie expliciet en bruikbaar. Het werkt omdat kwetsbaarheid aanstekelijk is: zodra één iemand open is\, durven anderen dat ook.\n\nVoor vragen kan je contact opnemen met je eigen leidinggevende of I&D-trekker Edion Walle.\n\n01.09\n\nMet vriendelijke groet\,\n\nCharissa Heus\nM 06 5543 4708\nc.heus@amsterdam.nl<mailto:c.heus@amsterdam.nl>\n\n
+UID:040000008200E00074C5B7101A82E0080000000020233D610F3ADD01000000000000000010000000C4181A9310F7FF45891DB090909D4A3B
+SUMMARY:Mijn gebruiksaanwijzing
+DTSTART;TZID=W. Europe Standard Time:20261124T090000
+DTEND;TZID=W. Europe Standard Time:20261124T123000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:1
+LOCATION:Entrada 600 0B.2 Projectkamer 8P AV
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E00800000000A3ADDA08923BDD01000000000000000010000000A2E12FBAFEFFDA48AC3C1C61DADC3799
+RECURRENCE-ID;TZID=W. Europe Standard Time:20261124T120000
+SUMMARY:Lunch (afspraken in overleg)
+DTSTART;TZID=W. Europe Standard Time:20261124T123000
+DTEND;TZID=W. Europe Standard Time:20261124T133000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Nieuwe overlegreeks op Entrada/via Teams en elke week op de maandag 10:30.\nHier de link naar een sheet waar iedereen zelf elke week agendapunten kan zetten.\n2026 Overleg sheet voor Kernteam Energiegemeenschappen.docx<https://hoofdstad.sharepoint.com/:w:/r/sites/SW-RE-RD-Energietransitie/Gedeelde%20documenten/PROGRAMMA%20ENERGIEGEMEENSCHAPPEN/Programma%202026/02%20Overleggen/04.%20Kernteam%20Energiegemeenschappen/2026%20Overleg%20sheet%20voor%20Kernteam%20Energiegemeenschappen.docx?d=w1e0c3483da0c4b3da0e6956a4cf85166&csf=1&web=1&e=NpaDkG>\nGr.\, Judith\n______________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjM3NTE0NDYtZTNiMC00YWJiLWJjMDYtM2Q2MTNjMjYwNGQy%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%229c02b874-6b1d-468b-9692-a935b1b2ba12%22%7d>\nVergadering-id: 379 507 254 188 71\nWachtwoordcode: PL7Vi7o5\n________________________________\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=9c02b874-6b1d-468b-9692-a935b1b2ba12&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_MjM3NTE0NDYtZTNiMC00YWJiLWJjMDYtM2Q2MTNjMjYwNGQy@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n\n
+UID:040000008200E00074C5B7101A82E0080000000060F9351B0469DC01000000000000000010000000EB9F19AEFE3DAF4EA3BDD0D0F01CF14E
+RECURRENCE-ID;TZID=W. Europe Standard Time:20261130T101500
+SUMMARY:Wekelijks Kernteam Energiegemeenschappen (Hybride)
+DTSTART;TZID=W. Europe Standard Time:20261130T100000
+DTEND;TZID=W. Europe Standard Time:20261130T110000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:68
+LOCATION:Microsoft Teams-vergadering\; Entrada 600 3C Duivendrecht 10P HYB
+X-MICROSOFT-CDO-APPT-SEQUENCE:68
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teamslink: Maandstart Energie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDU3YjFmODktYTUwOS00NmFhLWI5NzMtOGE1YzE3YzVkOWU2%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%220ea2f948-2967-4601-be65-70910f699f33%22%7d>\n\nBeste collega’s\,\nWe starten ook dit jaar weer elke maand met de Maandstart Energie op de eerste donderdag van de maand.\n\nMaandstart Energie is hét moment om op de hoogte te blijven van de laatste actualiteiten\, kennis te maken met nieuwe collega’s en highlights uit projecten te horen. Informatie die per definitie relevant is voor je werk.\nInclusief lunch\, hybride is mogelijk maar terugkijken niet. Zorg dus dat je erbij bent.\nWil je zelf een onderwerp delen tijdens de maandstart? Dat kan. Bij de maandstart heb je een breed publiek maar minder tijd.\nJe krijgt dan max. 5 minuten en mag één slide aanleveren voor je verhaal. Mogelijk kun je doorverwijzen naar een plek of moment waar meer informatie te halen is. Aanmelden kan via dit mailadres.\n\nWil je er fysiek bij zijn\, klik dan op ‘Accepteren/Het antwoord nu verzenden’.\nWanneer je deelneemt via Teams\, klik dan op ‘Voorlopig accepteren/Het antwoord nu verzenden’.\nZo weten we hoeveel lunch we moeten serveren en voorkomen we verspilling.\n\nDe lunch wordt na afloop om 12u geserveerd.\n\nGroeten namens het kennisdeelteam\,\nHedwig en Jolanda\n
+UID:040000008200E00074C5B7101A82E0080000000050889810806BDC01000000000000000010000000A6F8FCA7E9A4D043AAB875367E0E60F5
+RECURRENCE-ID;TZID=W. Europe Standard Time:20261203T110000
+SUMMARY:Maandstart Energie - met lunch
+DTSTART;TZID=W. Europe Standard Time:20261203T110000
+DTEND;TZID=W. Europe Standard Time:20261203T123000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:174
+LOCATION:Entrada 600: bedrijfsrestaurant of via MS Teams - zie link bovenin tekstvak
+X-MICROSOFT-CDO-APPT-SEQUENCE:174
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Nieuwe overlegreeks op Entrada/via Teams en elke week op de maandag 10:30.\nHier de link naar een sheet waar iedereen zelf elke week agendapunten kan zetten.\n2026 Overleg sheet voor Kernteam Energiegemeenschappen.docx<https://hoofdstad.sharepoint.com/:w:/r/sites/SW-RE-RD-Energietransitie/Gedeelde%20documenten/PROGRAMMA%20ENERGIEGEMEENSCHAPPEN/Programma%202026/02%20Overleggen/04.%20Kernteam%20Energiegemeenschappen/2026%20Overleg%20sheet%20voor%20Kernteam%20Energiegemeenschappen.docx?d=w1e0c3483da0c4b3da0e6956a4cf85166&csf=1&web=1&e=NpaDkG>\nGr.\, Judith\n______________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjM3NTE0NDYtZTNiMC00YWJiLWJjMDYtM2Q2MTNjMjYwNGQy%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%229c02b874-6b1d-468b-9692-a935b1b2ba12%22%7d>\nVergadering-id: 379 507 254 188 71\nWachtwoordcode: PL7Vi7o5\n________________________________\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=9c02b874-6b1d-468b-9692-a935b1b2ba12&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_MjM3NTE0NDYtZTNiMC00YWJiLWJjMDYtM2Q2MTNjMjYwNGQy@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n\n
+UID:040000008200E00074C5B7101A82E008000000006368174D2944DD01000000000000000010000000EA180FE28AC6EB43A063B00F015856AF
+RECURRENCE-ID;TZID=W. Europe Standard Time:20261207T100000
+SUMMARY:Wekelijks Kernteam Energiegemeenschappen (Hybride)
+DTSTART;TZID=W. Europe Standard Time:20261207T100000
+DTEND;TZID=W. Europe Standard Time:20261207T110000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:10
+LOCATION:Microsoft Teams-vergadering\; Entrada 600 3C Duivendrecht 10P HYB
+X-MICROSOFT-CDO-APPT-SEQUENCE:10
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Nieuwe overlegreeks op Entrada/via Teams en elke week op de maandag 10:30.\nHier de link naar een sheet waar iedereen zelf elke week agendapunten kan zetten.\n2026 Overleg sheet voor Kernteam Energiegemeenschappen.docx<https://hoofdstad.sharepoint.com/:w:/r/sites/SW-RE-RD-Energietransitie/Gedeelde%20documenten/PROGRAMMA%20ENERGIEGEMEENSCHAPPEN/Programma%202026/02%20Overleggen/04.%20Kernteam%20Energiegemeenschappen/2026%20Overleg%20sheet%20voor%20Kernteam%20Energiegemeenschappen.docx?d=w1e0c3483da0c4b3da0e6956a4cf85166&csf=1&web=1&e=NpaDkG>\nGr.\, Judith\n______________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjM3NTE0NDYtZTNiMC00YWJiLWJjMDYtM2Q2MTNjMjYwNGQy%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%229c02b874-6b1d-468b-9692-a935b1b2ba12%22%7d>\nVergadering-id: 379 507 254 188 71\nWachtwoordcode: PL7Vi7o5\n________________________________\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=9c02b874-6b1d-468b-9692-a935b1b2ba12&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_MjM3NTE0NDYtZTNiMC00YWJiLWJjMDYtM2Q2MTNjMjYwNGQy@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n\n
+RRULE:FREQ=WEEKLY;UNTIL=20261228T090000Z;INTERVAL=1;BYDAY=MO;WKST=SU
+UID:040000008200E00074C5B7101A82E008000000006368174D2944DD01000000000000000010000000EA180FE28AC6EB43A063B00F015856AF
+SUMMARY:Wekelijks Kernteam Energiegemeenschappen (Hybride)
+DTSTART;TZID=W. Europe Standard Time:20261207T100000
+DTEND;TZID=W. Europe Standard Time:20261207T110000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:9
+LOCATION:Microsoft Teams-vergadering
+X-MICROSOFT-CDO-APPT-SEQUENCE:9
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Nieuwe overlegreeks op Entrada/via Teams en elke week op de maandag 10:30.\nHier de link naar een sheet waar iedereen zelf elke week agendapunten kan zetten.\n2026 Overleg sheet voor Kernteam Energiegemeenschappen.docx<https://hoofdstad.sharepoint.com/:w:/r/sites/SW-RE-RD-Energietransitie/Gedeelde%20documenten/PROGRAMMA%20ENERGIEGEMEENSCHAPPEN/Programma%202026/02%20Overleggen/04.%20Kernteam%20Energiegemeenschappen/2026%20Overleg%20sheet%20voor%20Kernteam%20Energiegemeenschappen.docx?d=w1e0c3483da0c4b3da0e6956a4cf85166&csf=1&web=1&e=NpaDkG>\nGr.\, Judith\n______________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjM3NTE0NDYtZTNiMC00YWJiLWJjMDYtM2Q2MTNjMjYwNGQy%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%229c02b874-6b1d-468b-9692-a935b1b2ba12%22%7d>\nVergadering-id: 379 507 254 188 71\nWachtwoordcode: PL7Vi7o5\n________________________________\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=9c02b874-6b1d-468b-9692-a935b1b2ba12&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_MjM3NTE0NDYtZTNiMC00YWJiLWJjMDYtM2Q2MTNjMjYwNGQy@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n\n
+UID:040000008200E00074C5B7101A82E008000000006368174D2944DD01000000000000000010000000EA180FE28AC6EB43A063B00F015856AF
+RECURRENCE-ID;TZID=W. Europe Standard Time:20261214T100000
+SUMMARY:Wekelijks Kernteam Energiegemeenschappen (Hybride)
+DTSTART;TZID=W. Europe Standard Time:20261214T100000
+DTEND;TZID=W. Europe Standard Time:20261214T110000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:11
+LOCATION:Microsoft Teams-vergadering\; Entrada 600 3C Duivendrecht 10P HYB
+X-MICROSOFT-CDO-APPT-SEQUENCE:11
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Nieuwe overlegreeks op Entrada/via Teams en elke week op de maandag 10:30.\nHier de link naar een sheet waar iedereen zelf elke week agendapunten kan zetten.\n2026 Overleg sheet voor Kernteam Energiegemeenschappen.docx<https://hoofdstad.sharepoint.com/:w:/r/sites/SW-RE-RD-Energietransitie/Gedeelde%20documenten/PROGRAMMA%20ENERGIEGEMEENSCHAPPEN/Programma%202026/02%20Overleggen/04.%20Kernteam%20Energiegemeenschappen/2026%20Overleg%20sheet%20voor%20Kernteam%20Energiegemeenschappen.docx?d=w1e0c3483da0c4b3da0e6956a4cf85166&csf=1&web=1&e=NpaDkG>\nGr.\, Judith\n______________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjM3NTE0NDYtZTNiMC00YWJiLWJjMDYtM2Q2MTNjMjYwNGQy%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%229c02b874-6b1d-468b-9692-a935b1b2ba12%22%7d>\nVergadering-id: 379 507 254 188 71\nWachtwoordcode: PL7Vi7o5\n________________________________\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=9c02b874-6b1d-468b-9692-a935b1b2ba12&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_MjM3NTE0NDYtZTNiMC00YWJiLWJjMDYtM2Q2MTNjMjYwNGQy@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n\n
+UID:040000008200E00074C5B7101A82E008000000006368174D2944DD01000000000000000010000000EA180FE28AC6EB43A063B00F015856AF
+RECURRENCE-ID;TZID=W. Europe Standard Time:20261221T100000
+SUMMARY:Wekelijks Kernteam Energiegemeenschappen (Hybride)
+DTSTART;TZID=W. Europe Standard Time:20261221T100000
+DTEND;TZID=W. Europe Standard Time:20261221T110000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:12
+LOCATION:Microsoft Teams-vergadering\; Entrada 600 3C Duivendrecht 10P HYB
+X-MICROSOFT-CDO-APPT-SEQUENCE:12
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E00800000000CAF9220A823FDD01000000000000000010000000ABD7573BCE85BC45A26FEA9695D15112
+SUMMARY:Vrije dag
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:OOF
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Nieuwe overlegreeks op Entrada/via Teams en elke week op de maandag 10:30.\nHier de link naar een sheet waar iedereen zelf elke week agendapunten kan zetten.\n2026 Overleg sheet voor Kernteam Energiegemeenschappen.docx<https://hoofdstad.sharepoint.com/:w:/r/sites/SW-RE-RD-Energietransitie/Gedeelde%20documenten/PROGRAMMA%20ENERGIEGEMEENSCHAPPEN/Programma%202026/02%20Overleggen/04.%20Kernteam%20Energiegemeenschappen/2026%20Overleg%20sheet%20voor%20Kernteam%20Energiegemeenschappen.docx?d=w1e0c3483da0c4b3da0e6956a4cf85166&csf=1&web=1&e=NpaDkG>\nGr.\, Judith\n______________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjM3NTE0NDYtZTNiMC00YWJiLWJjMDYtM2Q2MTNjMjYwNGQy%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%229c02b874-6b1d-468b-9692-a935b1b2ba12%22%7d>\nVergadering-id: 379 507 254 188 71\nWachtwoordcode: PL7Vi7o5\n________________________________\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=9c02b874-6b1d-468b-9692-a935b1b2ba12&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_MjM3NTE0NDYtZTNiMC00YWJiLWJjMDYtM2Q2MTNjMjYwNGQy@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n\n
+UID:040000008200E00074C5B7101A82E008000000006368174D2944DD01000000000000000010000000EA180FE28AC6EB43A063B00F015856AF
+RECURRENCE-ID;TZID=W. Europe Standard Time:20261228T100000
+SUMMARY:Wekelijks Kernteam Energiegemeenschappen (Hybride)
+DTSTART;TZID=W. Europe Standard Time:20261228T100000
+DTEND;TZID=W. Europe Standard Time:20261228T110000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:13
+LOCATION:Microsoft Teams-vergadering\; Entrada 600 3C Duivendrecht 10P HYB
+X-MICROSOFT-CDO-APPT-SEQUENCE:13
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E008000000007EDF89FA813FDD01000000000000000010000000F5868A0A25F0DB45A60C8D03CD16E528
+SUMMARY:Vrije dag
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:OOF
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Nieuwe overlegreeks op Entrada/via Teams en elke week op de maandag 10:30.\nHier de link naar een sheet waar iedereen zelf elke week agendapunten kan zetten.\n2026 Overleg sheet voor Kernteam Energiegemeenschappen.docx<https://hoofdstad.sharepoint.com/:w:/r/sites/SW-RE-RD-Energietransitie/Gedeelde%20documenten/PROGRAMMA%20ENERGIEGEMEENSCHAPPEN/Programma%202026/02%20Overleggen/04.%20Kernteam%20Energiegemeenschappen/2026%20Overleg%20sheet%20voor%20Kernteam%20Energiegemeenschappen.docx?d=w1e0c3483da0c4b3da0e6956a4cf85166&csf=1&web=1&e=NpaDkG>\nGr.\, Judith\n______________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjM3NTE0NDYtZTNiMC00YWJiLWJjMDYtM2Q2MTNjMjYwNGQy%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%229c02b874-6b1d-468b-9692-a935b1b2ba12%22%7d>\nVergadering-id: 379 507 254 188 71\nWachtwoordcode: PL7Vi7o5\n________________________________\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=9c02b874-6b1d-468b-9692-a935b1b2ba12&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_MjM3NTE0NDYtZTNiMC00YWJiLWJjMDYtM2Q2MTNjMjYwNGQy@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n\n
+RRULE:FREQ=WEEKLY;UNTIL=20270405T080000Z;INTERVAL=1;BYDAY=MO;WKST=SU
+UID:040000008200E00074C5B7101A82E00800000000BED548F52944DD01000000000000000010000000FC7C21DFFC10824EBCA822349EC565AC
+SUMMARY:Wekelijks Kernteam Energiegemeenschappen (Hybride)
+DTSTART;TZID=W. Europe Standard Time:20270104T100000
+DTEND;TZID=W. Europe Standard Time:20270104T110000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Microsoft Teams-vergadering\; Entrada 600 3C Duivendrecht 10P HYB
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n________________________________\nVan: Ouden\, Laura den <l.Den.ouden@amsterdam.nl>\nVerzonden: maandag 17 november 2025 09:38:57 (UTC+01:00) Amsterdam\, Berlin\, Bern\, Rome\, Stockholm\, Vienna\nAan: Ouden\, Laura den <l.Den.ouden@amsterdam.nl>\; Goos\, Marijke <M.Goos@amsterdam.nl>\; Zeeuw-Kedde\, Babette de <b.de.zeeuwkedde@amsterdam.nl>\; Hansen\, Evelien <e.hansen@amsterdam.nl>\; Snippe\, Jara <j.snippe@amsterdam.nl>\; Heuvel\, Joost van den <j.van.den.heuvel@amsterdam.nl>\nCC: Jong\, Bas de <bas.de.jong@amsterdam.nl>\nOnderwerp: Subsidieteamoverleg\nWanneer: Vindt om de week plaats op maandag van 14:00 tot 15:00 geldig vanaf 8-12-2025.\nWaar: AMST1 5A.0 4P\; Microsoft Teams-vergadering\n\n\n________________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODUzZjM3ZDUtZGZiNi00Y2JjLWFkN2YtNWMyOTZmZGJlYjA5%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%226f252adf-3b9d-4371-9484-18d2d9062d87%22%7d>\nVergadering-id: 336 772 942 159 4\nWachtwoordcode: SP6hD7xo\n________________________________\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=6f252adf-3b9d-4371-9484-18d2d9062d87&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_ODUzZjM3ZDUtZGZiNi00Y2JjLWFkN2YtNWMyOTZmZGJlYjA5@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n\n
+RRULE:FREQ=WEEKLY;UNTIL=20270329T120000Z;INTERVAL=2;BYDAY=MO;WKST=MO
+EXDATE;TZID=W. Europe Standard Time:20270118T140000,20270201T140000
+UID:040000008200E00074C5B7101A82E008000000007069D69CA557DC010000000000000000100000002DBF4E346169014FBD01D2D1255B9F43
+SUMMARY:Subsidieteamoverleg
+DTSTART;TZID=W. Europe Standard Time:20270104T140000
+DTEND;TZID=W. Europe Standard Time:20270104T150000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:6
+LOCATION:Microsoft Teams-vergadering\; AMST1 5A.0 4P
+X-MICROSOFT-CDO-APPT-SEQUENCE:6
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E008000000007069D69CA557DC010000000000000000100000002DBF4E346169014FBD01D2D1255B9F43
+RECURRENCE-ID;TZID=W. Europe Standard Time:20270104T140000
+SUMMARY:Geannuleerd: Subsidieteamoverleg
+DTSTART;TZID=W. Europe Standard Time:20270104T140000
+DTEND;TZID=W. Europe Standard Time:20270104T150000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:61
+LOCATION:Microsoft Teams-vergadering\; AMST1 5A.0 4P
+X-MICROSOFT-CDO-APPT-SEQUENCE:61
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams meeting\nJoin: https://teams.microsoft.com/meet/311107269157112?p=fEzuNVpOwlM03OBEGj\nMeeting ID: 311 107 269 157 112\nPasscode: ne6Zr68U\n________________________________\nNeed help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US> | System reference<https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDI3NDU4NTktYzRhYi00NDgzLTg3NzktMzZmOTA0ZmM2ZDFh%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%229c02b874-6b1d-468b-9692-a935b1b2ba12%22%7d>\nFor organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=9c02b874-6b1d-468b-9692-a935b1b2ba12&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_NDI3NDU4NTktYzRhYi00NDgzLTg3NzktMzZmOTA0ZmM2ZDFh@thread.v2&messageId=0&language=en-US>\n________________________________________________________________________________\n
+RRULE:FREQ=MONTHLY;UNTIL=20270408T080000Z;INTERVAL=3;BYDAY=2TH
+UID:040000008200E00074C5B7101A82E00800000000BBB53F1D164FDD01000000000000000010000000A4498432CA4AD24A95AB9503DB52CDA2
+SUMMARY:Programma Energiegemeenschappen | Kwartaalevaluatie
+DTSTART;TZID=W. Europe Standard Time:20270114T100000
+DTEND;TZID=W. Europe Standard Time:20270114T120000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:1
+LOCATION:Entrada 600 3C.4 van der Madeweg 6P HYB
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n________________________________\nVan: Bendehani\, Asma <a.bendehani@amsterdam.nl>\nVerzonden: maandag 20 januari 2025 14:23:22 (UTC+01:00) Amsterdam\, Berlin\, Bern\, Rome\, Stockholm\, Vienna\nAan: Bendehani\, Asma <a.bendehani@amsterdam.nl>\; Snippe\, Jara <j.snippe@amsterdam.nl>\; Siebe Tijssen <siebe.tijssen@regionaalenergieloket.nl>\; marieke.megens@regionaalenergieloket.nl <marieke.megens@regionaalenergieloket.nl>\; Jonk\, Silke <silke.jonk@amsterdam.nl>\; emma.damman@regionaalenergieloket.nl <emma.damman@regionaalenergieloket.nl>\nOnderwerp: Tussentijdse evaluatie AIO - REL\nWanneer: Vindt om de 6 maanden plaats op de eerste donderdag van de maand van 09:00 tot 10:30 geldig vanaf 7-8-2025 tot 7-5-2028.\nWaar: Microsoft Teams-vergadering\n\n\n________________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODJlYWZlOWYtZmU1Ni00NTJiLTg5ZWEtN2E2NDMzN2I4NzIw%40thread.v2/0?context=%7b%22Tid%22%3a%2272fca1b1-2c2e-4376-a445-294d80196804%22%2c%22Oid%22%3a%22533e5805-1e56-4454-9168-31825951c773%22%7d>\nVergadering-id: 360 295 613 864\nWachtwoordcode: hY2Vd6to\n________________________________\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=533e5805-1e56-4454-9168-31825951c773&tenantId=72fca1b1-2c2e-4376-a445-294d80196804&threadId=19_meeting_ODJlYWZlOWYtZmU1Ni00NTJiLTg5ZWEtN2E2NDMzN2I4NzIw@thread.v2&messageId=0&language=nl-NL>\n________________________________________________________________________________\n\n
+RRULE:FREQ=MONTHLY;UNTIL=20270204T080000Z;INTERVAL=6;BYDAY=1TH
+UID:040000008200E00074C5B7101A82E0080000000030B88BA2466BDB01000000000000000010000000D04F916E6634D447B5C3A766816E344B
+SUMMARY:Tussentijdse evaluatie AIO - REL
+DTSTART;TZID=W. Europe Standard Time:20270204T090000
+DTEND;TZID=W. Europe Standard Time:20270204T103000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:6
+LOCATION:Microsoft Teams-vergadering
+X-MICROSOFT-CDO-APPT-SEQUENCE:6
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E008000000007069D69CA557DC010000000000000000100000002DBF4E346169014FBD01D2D1255B9F43
+RECURRENCE-ID;TZID=W. Europe Standard Time:20270215T140000
+SUMMARY:Geannuleerd: Subsidieteamoverleg
+DTSTART;TZID=W. Europe Standard Time:20270215T140000
+DTEND;TZID=W. Europe Standard Time:20270215T150000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:64
+LOCATION:Microsoft Teams-vergadering\; AMST1 5A.0 4P
+X-MICROSOFT-CDO-APPT-SEQUENCE:64
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E008000000007069D69CA557DC010000000000000000100000002DBF4E346169014FBD01D2D1255B9F43
+RECURRENCE-ID;TZID=W. Europe Standard Time:20270301T140000
+SUMMARY:Geannuleerd: Subsidieteamoverleg
+DTSTART;TZID=W. Europe Standard Time:20270301T140000
+DTEND;TZID=W. Europe Standard Time:20270301T150000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:65
+LOCATION:Microsoft Teams-vergadering\; AMST1 5A.0 4P
+X-MICROSOFT-CDO-APPT-SEQUENCE:65
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E008000000007069D69CA557DC010000000000000000100000002DBF4E346169014FBD01D2D1255B9F43
+RECURRENCE-ID;TZID=W. Europe Standard Time:20270315T140000
+SUMMARY:Geannuleerd: Subsidieteamoverleg
+DTSTART;TZID=W. Europe Standard Time:20270315T140000
+DTEND;TZID=W. Europe Standard Time:20270315T150000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:66
+LOCATION:Microsoft Teams-vergadering\; AMST1 5A.0 4P
+X-MICROSOFT-CDO-APPT-SEQUENCE:66
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n
+UID:040000008200E00074C5B7101A82E008000000007069D69CA557DC010000000000000000100000002DBF4E346169014FBD01D2D1255B9F43
+RECURRENCE-ID;TZID=W. Europe Standard Time:20270329T140000
+SUMMARY:Geannuleerd: Subsidieteamoverleg
+DTSTART;TZID=W. Europe Standard Time:20270329T140000
+DTEND;TZID=W. Europe Standard Time:20270329T150000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261011T050546Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:67
+LOCATION:Microsoft Teams-vergadering\; AMST1 5A.0 4P
+X-MICROSOFT-CDO-APPT-SEQUENCE:67
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+END:VCALENDAR
